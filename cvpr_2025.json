@@ -1,0 +1,158 @@
+[
+    {
+        "Title": "From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective",
+        "Authors": "Chen Zhao \u00b7 Zhizhou Chen \u00b7 Yunzhe Xu \u00b7 Enxuan Gu \u00b7 Jian Li \u00b7 Zili Yi \u00b7 qian Wang \u00b7 Jian Yang \u00b7 Ying Tai",
+        "Abstract": "Ultra-high-definition (UHD) image restoration faces significant challenges due to its high resolution, complex content, and intricate details. To cope with these challenges, we analyze the restoration process in depth through a progressive spectral perspective, and deconstruct the complex UHD restoration problem into three progressive stages: zero-frequency enhancement, low-frequency restoration, and high-frequency refinement. Building on this insight, we propose a novel framework, ERR, which comprises three collaborative  sub-networks: the zero-frequency enhancer (ZFE), the low-frequency restorer (LFR), and the high-frequency refiner (HFR). Specifically, the ZFE integrates global priors to learn global mapping, while the LFR restores low-frequency information, emphasizing reconstruction of coarse-grained content. Finally, the HFR employs our designed  frequency-windowed Kolmogorov-Arnold Networks (FW-KAN) to refine textures and details, producing high-quality image restoration. Our approach significantly outperforms previous UHD methods across various tasks, with extensive ablation studies validating the effectiveness of each component.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "This paper addresses the challenges of ultra-high-definition (UHD) image restoration by deconstructing the process into three progressive stages: zero-frequency enhancement, low-frequency restoration, and high-frequency refinement. The proposed framework, ERR, consists of three sub-networks: the zero-frequency enhancer (ZFE), the low-frequency restorer (LFR), and the high-frequency refiner (HFR). The ZFE integrates global priors for global mapping, the LFR focuses on coarse-grained content reconstruction, and the HFR uses frequency-windowed Kolmogorov-Arnold Networks (FW-KAN) to refine textures and details. The approach demonstrates superior performance over existing UHD restoration methods, with ablation studies confirming the effectiveness of each component.",
+        "Tags": [
+            "Super-Resolution",
+            "Low-Level Vision",
+            "Frequency-Windowed Kolmogorov-Arnold Networks",
+            "Progressive Spectral Perspective",
+            "Ultra-High-Definition Image Restoration"
+        ]
+    },
+    {
+        "Title": "DeRS: Towards Extremely Efficient Upcycled Mixture-of-Experts Models",
+        "Authors": "Yongqi Huang \u00b7 Peng Ye \u00b7 Chenyu Huang \u00b7 Jianjian Cao \u00b7 Lin Zhang \u00b7 Baopu Li \u00b7 Gang Yu \u00b7 Tao Chen",
+        "Abstract": "Upcycled Mixture-of-Experts (MoE) models have shown great potential in various tasks by converting the original Feed-Forward Network (FFN) layers in pre-trained dense models into MoE layers. However, these models still suffer from significant parameter inefficiency due to the introduction of multiple experts. In this work, we propose a novel DeRS (Decompose, Replace, and Synthesis) paradigm to overcome this shortcoming, which is motivated by our observations about the unique redundancy mechanisms of upcycled MoE experts. Specifically, DeRS decomposes the experts into one expert-shared base weight and multiple expert-specific delta weights, and subsequently represents these delta weights in lightweight forms. Our proposed DeRS paradigm can be applied to enhance parameter efficiency in two different scenarios, including: 1) DeRS Compression for inference stage, using sparsification or quantization to compress vanilla upcycled MoE models; and 2) DeRS Upcycling for training stage, employing lightweight sparse or low-rank matrixes to efficiently upcycle dense models into MoE models. Extensive experiments across three different tasks show that the proposed methods can achieve extreme parameter efficiency while maintaining the performance for both training and compression of upcycled MoE models.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "The paper introduces DeRS (Decompose, Replace, and Synthesis), a novel paradigm to enhance the parameter efficiency of upcycled Mixture-of-Experts (MoE) models. DeRS addresses the inefficiency of traditional MoE models by decomposing experts into shared base weights and expert-specific delta weights, represented in lightweight forms. The paradigm is applicable in two scenarios: DeRS Compression for inference, using sparsification or quantization, and DeRS Upcycling for training, using lightweight sparse or low-rank matrices. The methods demonstrate significant parameter efficiency while maintaining performance across various tasks.",
+        "Tags": [
+            "Mixture-of-Experts (MoE)",
+            "Model Compression",
+            "Parameter Efficiency",
+            "Sparsification",
+            "Low-Rank Matrices",
+            "Delta Weights"
+        ]
+    },
+    {
+        "Title": "CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner",
+        "Authors": "Weiyu Li \u00b7 Jiarui Liu \u00b7 Hongyu Yan \u00b7 Rui Chen \u00b7 Yixun Liang \u00b7 Xuelin Chen \u00b7 Ping Tan \u00b7 Xiaoxiao Long",
+        "Abstract": "We present a novel generative 3D modeling system, coined CraftsMan, which can generate high-fidelity 3D geometries with highly varied shapes, regular mesh topologies, and detailed surfaces, and, notably, allows for refining the geometry in an interactive manner. Despite the significant advancements in 3D generation, existing methods still struggle with lengthy optimization processes, self-occlusion, irregular mesh topologies, and difficulties in accommodating user edits, consequently impeding their widespread adoption and implementation in 3D modeling softwares. Our work is inspired by the craftsman, who usually roughs out the holistic figure of the work first and elaborates the surface details subsequently. Specifically, we first introduce a robust data preprocessing pipeline that utilizes visibility check and winding mumber to maximize the use of existing 3D data. Leveraging this data, we employ a 3D-native DiT model that directly models the distribution of 3D data in latent space, generating coarse geometries with regular mesh topology in seconds. Subsequently, a normal-based geometry refiner enhances local surface details, which can be applied automatically or interactively with user input. Extensive experiments demonstrate that our method achieves high efficacy in producing superior quality 3D assets compared to existing methods.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "CraftsMan introduces a novel generative 3D modeling system capable of producing high-fidelity 3D geometries with varied shapes, regular mesh topologies, and detailed surfaces. The system allows for interactive geometry refinement, addressing challenges such as lengthy optimization, self-occlusion, and irregular mesh topologies in existing methods. Inspired by the craftsman's approach, the system first generates coarse geometries using a 3D-native DiT model and then refines surface details with a normal-based geometry refiner, which can operate automatically or interactively with user input. The method demonstrates superior efficacy in generating high-quality 3D assets compared to existing approaches.",
+        "Tags": [
+            "3D Generation",
+            "3D Reconstruction",
+            "Interactive Geometry Refinement",
+            "3D-native DiT Model",
+            "Normal-based Surface Enhancement"
+        ]
+    },
+    {
+        "Title": "Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering",
+        "Authors": "Yuanhao Zou \u00b7 Zhaozheng Yin",
+        "Abstract": "Medical Visual Question Answering (Med-VQA) is a challenging task that requires a deep understanding of both medical images and textual questions. Although recent works leveraging Medical Vision-Language Pre-training (Med-VLP) have shown strong performance on the Med-VQA task, there is still no unified solution for modality alignment, and the issue of hard negatives remains under-explored. Additionally, commonly used knowledge fusion techniques for Med-VQA may introduce irrelevant information. In this work, we propose a framework to address these challenges through three key contributions: (1) a unified solution for heterogeneous modality alignments across multiple levels, modalities, views, and stages, leveraging methods such as contrastive learning and optimal transport theory; (2) a hard negative mining method that employs soft labels for multi-modality alignments and enforces the hard negative pair discrimination; and (3) a Gated Cross-Attention Module for Med-VQA that integrates the answer vocabulary as prior knowledge and select relevant information from it. Our framework outperforms the previous state-of-the-art on widely used Med-VQA datasets like RAD-VQA, SLAKE, PathVQA and VQA-2019. The code will be publicly available.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "Medical Visual Question Answering (Med-VQA) is a challenging task requiring deep understanding of medical images and textual questions. This paper addresses key challenges in Med-VQA by proposing a framework with three main contributions: (1) a unified solution for heterogeneous modality alignment across multiple levels, modalities, views, and stages using contrastive learning and optimal transport theory; (2) a hard negative mining method that uses soft labels for multi-modality alignment and enhances hard negative pair discrimination; and (3) a Gated Cross-Attention Module that integrates answer vocabulary as prior knowledge and selectively fuses relevant information. The framework achieves state-of-the-art performance on Med-VQA datasets like RAD-VQA, SLAKE, PathVQA, and VQA-2019.",
+        "Tags": [
+            "Vision-Language Models (VLMs)",
+            "Medical Image Analysis",
+            "Contrastive Learning",
+            "Hard Negative Mining",
+            "Gated Cross-Attention"
+        ]
+    },
+    {
+        "Title": "Neural Hierarchical Decomposition for Single Image Plant Modeling",
+        "Authors": "Zhihao Liu \u00b7 Zhanglin Cheng \u00b7 Naoto Yokoya",
+        "Abstract": "Obtaining high-quality, practically usable 3D models of biological plants remains a significant challenge in computer vision and graphics. In this paper, we present a novel method for generating realistic 3D plant models from single-view photographs. Our approach employs a neural decomposition technique to learn a lightweight hierarchical box representation from the image, effectively capturing the structures and botanical features of plants. Then, this representation can be subsequently refined through a shape-guided parametric modeling module to produce complete 3D plant models. By combining hierarchical learning and parametric modeling, our method generates structured 3D plant assets with fine geometric details. Notably, through learning the decomposition in different levels of detail, our method can adapt to two distinct plant categories: outdoor trees and houseplants, each with unique appearance features. Within the scope of plant modeling, our method is the first comprehensive solution capable of reconstructing both plant categories from single-view images.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "This paper introduces a novel method for generating realistic 3D plant models from single-view photographs. The approach uses a neural decomposition technique to create a hierarchical box representation that captures plant structures and botanical features. This representation is refined through a shape-guided parametric modeling module to produce detailed 3D plant models. The method adapts to two distinct plant categories\u2014outdoor trees and houseplants\u2014by learning decomposition at different levels of detail. It is the first comprehensive solution for reconstructing both categories from single-view images.",
+        "Tags": [
+            "3D Reconstruction",
+            "3D Generation",
+            "Hierarchical Learning",
+            "Parametric Modeling",
+            "Single-View Reconstruction"
+        ]
+    },
+    {
+        "Title": "uCO3D: UnCommon Objects in 3D",
+        "Authors": "Xingchen Liu \u00b7 Piyush Tayal \u00b7 Jianyuan Wang \u00b7 Jesus Zarzar \u00b7 Tom Monnier \u00b7 Konstantinos Tertikas \u00b7 Jiali Duan \u00b7 Antoine Toisoul \u00b7 Jason Y. Zhang \u00b7 Natalia Neverova \u00b7 Andrea Vedaldi \u00b7 Roman Shapovalov \u00b7 David Novotny",
+        "Abstract": "None",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "No abstract provided.",
+        "Tags": []
+    },
+    {
+        "Title": "Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval",
+        "Authors": "Boseung Jeong \u00b7 Jicheol Park \u00b7 Sungyeon Kim \u00b7 Suha Kwak",
+        "Abstract": "Video-text retrieval, the task of retrieving videos based on a textual query or vice versa, is of paramount importance for video understanding and multimodal information retrieval. Recent methods in this area rely primarily on visual and textual features and often ignore audio, although it helps enhance overall comprehension of video content.Moreover, traditional models that incorporate audio blindly utilize the audio input regardless of whether it is useful or not, resulting in suboptimal video representation. To address these limitations, we propose a novel video-text retrieval framework, Audio-guided VIdeo representation learning with GATEd attention (AVIGATE), that effectively leverages audio cues through a gated attention mechanism that selectively filters out uninformative audio signals.In addition, we propose an adaptive margin-based contrastive loss to deal with the inherently unclear positive-negative relationship between video and text, which facilitates learning better video-text alignment.Our extensive experiments demonstrate that AVIGATE achieves state-of-the-art performance on all the public benchmarks.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "The paper introduces AVIGATE, a novel framework for video-text retrieval that leverages audio cues through a gated attention mechanism to selectively filter uninformative audio signals, enhancing video representation. It also proposes an adaptive margin-based contrastive loss to address unclear positive-negative relationships between video and text, improving video-text alignment. AVIGATE achieves state-of-the-art performance on public benchmarks.",
+        "Tags": [
+            "Video Understanding",
+            "Multimodal Learning",
+            "Gated Attention Mechanism",
+            "Adaptive Margin-based Contrastive Loss",
+            "Audio-guided Video Representation"
+        ]
+    },
+    {
+        "Title": "Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models",
+        "Authors": "Yankai Jiang \u00b7 Peng Zhang \u00b7 Donglin Yang \u00b7 Yuan Tian \u00b7 Hai Lin \u00b7 Xiaosong Wang",
+        "Abstract": "We explore Generalizable Tumor Segmentation, aiming to train a single model for zero-shot tumor segmentation across diverse anatomical regions. Existing methods face limitations related to segmentation quality, scalability, and the range of applicable imaging modalities. In this paper, we uncover the potential of the internal representations within frozen medical foundation diffusion models as highly efficient zero-shot learners for tumor segmentation by introducing a novel framework named DiffuGTS. DiffuGTS creates anomaly-aware open-vocabulary attention maps based on text prompts to enable generalizable anomaly segmentation without being restricted by a predefined training category list. To further improve and refine anomaly segmentation masks, DiffuGTS leverages the diffusion model, transforming pathological regions into high-quality pseudo-healthy counterparts through latent space inpainting, and applies a novel pixel-level and feature-level residual learning approach, resulting in segmentation masks with significantly enhanced quality and generalization. Comprehensive experiments on four datasets and seven tumor categories demonstrate the superior performance of our method, surpassing current state-of-the-art models across multiple zero-shot settings. The codes will be made publicly available.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "This paper introduces DiffuGTS, a novel framework for generalizable tumor segmentation across diverse anatomical regions using frozen medical foundation diffusion models. The approach leverages anomaly-aware open-vocabulary attention maps generated from text prompts, enabling zero-shot segmentation without predefined categories. DiffuGTS further refines segmentation masks by transforming pathological regions into pseudo-healthy counterparts through latent space inpainting and employs a residual learning approach at both pixel and feature levels. The method demonstrates superior performance in zero-shot settings across four datasets and seven tumor categories, outperforming state-of-the-art models.",
+        "Tags": [
+            "Medical Image Segmentation",
+            "Diffusion Models",
+            "Zero-Shot Learning",
+            "Anomaly-Aware Attention Maps",
+            "Latent Space Inpainting",
+            "Residual Learning"
+        ]
+    },
+    {
+        "Title": "Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification",
+        "Authors": "Rui Gong \u00b7 Kim-Hui Yap \u00b7 Weide Liu \u00b7 Xulei Yang \u00b7 Jun Cheng",
+        "Abstract": "None",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "No abstract provided.",
+        "Tags": [
+            "Stereo Matching",
+            "Low-Level Vision",
+            "Online Stereo Rectification",
+            "Rectification-specific Supervision",
+            "Constrained Estimator"
+        ]
+    },
+    {
+        "Title": "Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks",
+        "Authors": "Peng Xie \u00b7 Yequan Bie \u00b7 Jianda Mao \u00b7 Yangqiu Song \u00b7 Yang Wang \u00b7 Hao Chen \u00b7 Kani Chen",
+        "Abstract": "Pre-trained vision-language models (VLMs) have showcased remarkable performance in image and natural language understanding, such as image captioning and response generation. As the practical applications of vision-language models become increasingly widespread, their potential safety and robustness issues raise concerns that adversaries may evade the system and cause these models to generate toxic content through malicious attacks. Therefore, evaluating the robustness of open-source VLMs against adversarial attacks has garnered growing attention, with transfer-based attacks as a representative black-box attacking strategy. However, most existing transfer-based attacks neglect the importance of the semantic correlations between vision and text modalities, leading to sub-optimal adversarial example generation and attack performance. To address this issue, we present Chain of Attack (CoA), which iteratively enhances the generation of adversarial examples based on the multi-modal semantic update using a series of intermediate attacking steps, achieving superior adversarial transferability and efficiency. A unified attack success rate computing method is further proposed for automatic evasion evaluation. Extensive experiments conducted under the most realistic and high-stakes scenario, demonstrate that our attacking strategy is able to effectively mislead models to generate targeted responses using only black-box attacks without any knowledge of the victim models. The comprehensive robustness evaluation in our paper provides insight into the vulnerabilities of VLMs and offers a reference for the safety considerations of future model developments. The code will be made publically available.",
+        "Link": "None",
+        "Year": 2025,
+        "Conference": "CVPR",
+        "Abstract_Summary": "Pre-trained vision-language models (VLMs) have demonstrated strong performance in tasks like image captioning and response generation, but their robustness against adversarial attacks remains a concern. This paper introduces Chain of Attack (CoA), a method that iteratively improves adversarial example generation by leveraging multi-modal semantic updates through intermediate attacking steps. CoA achieves superior transferability and efficiency in black-box attacks, effectively misleading VLMs to generate targeted responses without requiring knowledge of the victim models. A unified attack success rate computation method is proposed for automatic evaluation. The study highlights vulnerabilities in VLMs and provides insights for improving model safety. The code will be publicly available.",
+        "Tags": [
+            "Vision-Language Models (VLMs)",
+            "Adversarial Attacks",
+            "Multi-Modal Semantic Updates",
+            "Black-Box Attacks",
+            "Adversarial Transferability"
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+{
+  "short_name": "CVPR Search",
+  "name": "CVPR Papers Search",
+  "description": "Search and explore the latest computer vision papers from CVPR conferences",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a56db",
+  "background_color": "#f9fafb"
+}
