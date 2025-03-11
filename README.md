@@ -108,7 +108,7 @@
 
 ### Acc3D: Accelerating Single Image to 3D Diffusion Models via Edge Consistency Guided Score Distillation
 - **Tags:** 3D Generation, Diffusion Models, Edge Consistency, Score Distillation, Adversarial Augmentation
-- **Link:** [Paper Link](https://acc3d-object.github.io/)
+- **Link:** [Link](https://acc3d-object.github.io/)
 
 ### DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis
 - **Tags:** 3D Generation, Diffusion Models, Neural Radiance Fields (NeRFs), View Consistency, Free-Viewpoint Rendering
@@ -196,7 +196,7 @@
 
 ### 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion
 - **Tags:** 3D Generation, Diffusion Models, Primitive-based 3D Representation, Diffusion Transformer, Physically Based Rendering
-- **Link:** [Paper Link](https://3dtopia.github.io/3DTopia-XL/)
+- **Link:** [Link](https://3dtopia.github.io/3DTopia-XL/)
 
 ### Fancy123: One Image to High-Quality 3D Mesh Generation via Plug-and-Play Deformation
 - **Tags:** 3D Generation, Neural Radiance Fields (NeRF), Mesh Deformation, Multiview Consistency, Plug-and-Play Modules
@@ -221,7 +221,7 @@
 
 ### Generative Gaussian Splatting for Unbounded 3D City Generation
 - **Tags:** 3DGS (Gaussian Splatting), 3D Generation, BEV-Point Representation, Spatial-aware Decoder, Unbounded Scene Generation
-- **Link:** [Paper Link](https://www.infinitescript.com/project/gaussian-city)
+- **Link:** [Link](https://www.infinitescript.com/project/gaussian-city)
 
 ### Touch2Shape: Touch-Conditioned 3D Diffusion for Shape Exploration and Reconstruction
 - **Tags:** 3D Generation, Diffusion Models, 3D Reconstruction, Tactile Imaging, Reinforcement Learning, Shape Exploration
@@ -387,7 +387,7 @@
 
 ### Birth and Death of a Rose
 - **Tags:** 3D Generation, Diffusion Models, Temporal Consistency, Neural Templates, Controllable Rendering
-- **Link:** [Paper Link](https://chen-geng.com/rose4d)
+- **Link:** [Link](https://chen-geng.com/rose4d)
 
 ### 3DEnhancer: Consistent Multi-View Diffusion for 3D Enhancement
 - **Tags:** 3D Generation, Diffusion Models, Data Augmentation, Multi-View Consistency, Pose-Aware Encoder, Epipolar Aggregation
@@ -478,7 +478,7 @@
 
 ### SKDream: Controllable Multi-view and 3D Generation with Arbitrary Skeletons
 - **Tags:** 3D Generation, Controllable Generation, Mesh Skeletonization, Coordinate Color Encoding, Skeletal Correlation Module
-- **Link:** [Paper Link](https://skdream3d.github.io/)
+- **Link:** [Link](https://skdream3d.github.io/)
 
 ### Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation
 - **Tags:** 3D Generation, 3DGS (Gaussian Splatting), Interpretable Evaluation, Geometric Consistency, Semantic Consistency
@@ -737,7 +737,7 @@
 
 ### FASTer: Focal token Acquiring-and-Scaling Transformer for Long-term 3D Objection Detection.
 - **Tags:** 3D Object Detection, Transformers, Adaptive Scaling, Grouped Hierarchical Fusion, Temporal Sequences
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### UniHOPE: A Unified Approach for Hand-Object Pose Estimation
 - **Tags:** 3D Human Pose Estimation, 3D Object Detection, Grasp-aware Feature Fusion, Occlusion-invariant Features, Dynamic Object Switcher
@@ -1013,7 +1013,7 @@
 
 ### EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching
 - **Tags:** Feature Matching, 3D Point Cloud, Spherical Camera Model, Geodesic Flow Refinement, Spherical Positional Embeddings
-- **Link:** [Paper Link](https://anonymous000edm.github.io/)
+- **Link:** [Link](https://anonymous000edm.github.io/)
 
 ### TopNet: Transformer-Efficient Occupancy Prediction Network for Octree-Structured Point Cloud Geometry Compression
 - **Tags:** 3D Point Cloud, 3D Reconstruction, Octree-Structured Compression, Adaptive-Length Attention, Spatial-Gated Feature Aggregation
@@ -1059,7 +1059,7 @@
 
 ### Point Cloud Upsampling Using Conditional Diffusion Module with Adaptive Noise Suppression
 - **Tags:** 3D Point Cloud, Denoising, Conditional Diffusion Model, Feature Interaction, Noise Suppression
-- **Link:** [Paper Link](https://github.com/Baty2023/PDANS)
+- **Link:** [Link](https://github.com/Baty2023/PDANS)
 
 ### DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-based Refinement
 - **Tags:** Autonomous Driving, 3D Point Cloud, Diffusion Models, Semantic Distillation, Pose Estimation Refinement, Generative Diversity
@@ -1147,7 +1147,7 @@
 
 ### CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework
 - **Tags:** 3D Point Cloud, Text-to-Image Generation, Uncertainty Modeling, Spatial Consolidation, Cardinal Direction Integration
-- **Link:** [Paper Link](https://github.com/anonymous0819/CMMLoc)
+- **Link:** [Link](https://github.com/anonymous0819/CMMLoc)
 
 ### Adapting Pre-trained 3D Models for Point Cloud Video Understanding via Cross-frame Spatio-temporal Perception
 - **Tags:** 3D Point Cloud, Video Understanding, Temporal Consistency, Spatio-temporal Adaptation, Point Tube Adapter
@@ -1203,7 +1203,7 @@
 
 ### S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Super-Resolution, Depth Regularization, Gaussian Shuffle, Blur-Free Inconsistency Modeling
-- **Link:** [Paper Link](https://jeasco.github.io/S2Gaussian/)
+- **Link:** [Link](https://jeasco.github.io/S2Gaussian/)
 
 ### GenAssets: Generating in-the-wild 3D Assets in Latent Space
 - **Tags:** 3D Generation, Diffusion Models, 3D Reconstruction, Latent Space Modeling, Occlusion-Aware Neural Rendering, In-the-Wild Data Utilization
@@ -1258,7 +1258,7 @@
 
 ### VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
 - **Tags:** Embodied AI, Zero-Shot Learning, 3D Reconstruction, Diffusion Models, 3D Hand Trajectories, Coarse-to-Fine Learning, Context-Aware Interaction Planning
-- **Link:** [Paper Link](https://hanzhic.github.io/vidbot-project/)
+- **Link:** [Link](https://hanzhic.github.io/vidbot-project/)
 
 ### Toward Robust Neural Reconstruction from Sparse Point Sets
 - **Tags:** 3D Reconstruction, 3D Point Cloud, Signed Distance Functions (SDF), Distributionally Robust Optimization (DRO), Uncertainty Regularization
@@ -1691,7 +1691,7 @@
 
 ### Accurate Differential Operators for Hybrid Neural Fields
 - **Tags:** Neural Radiance Fields (NeRF), 3D Reconstruction, Spatial Derivatives, Self-Supervised Fine-Tuning, Local Polynomial Fitting
-- **Link:** [Paper Link](https://justachetan.github.io/hnf-derivatives/)
+- **Link:** [Link](https://justachetan.github.io/hnf-derivatives/)
 
 ### Digital Twin Catalog: A Large-Scale Photorealistic 3D Object Digital Twin Dataset
 - **Tags:** 3D Reconstruction, Datasets and Benchmarks, Photorealistic 3D Objects, Egocentric AR, Inverse Rendering
@@ -2247,7 +2247,7 @@
 
 ### MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
 - **Tags:** 3D Reconstruction, Autonomous Driving, NeRF (Neural Radiance Fields), Datasets and Benchmarks, Distributed SLAM, Peer-to-Peer Communication, Intra-to-Inter Loop Closure
-- **Link:** [Paper Link](https://anonymous.4open.science/w/ins-BD50/)
+- **Link:** [Link](https://anonymous.4open.science/w/ins-BD50/)
 
 ### CRISP: Object Pose and Shape Estimation with Test-Time Adaptation
 - **Tags:** 3D Object Pose Estimation, 3D Reconstruction, Test-Time Adaptation, Self-Supervised Learning, Domain Adaptation
@@ -2288,7 +2288,7 @@
 
 ### HeMoRa: Unsupervised Heuristic Consensus Sampling for Robust Point Cloud Registration
 - **Tags:** 3D Registration, Unsupervised Learning, Heuristic Consensus Sampling, Maximal Reward Propagation, Point Cloud Registration
-- **Link:** [Paper Link](https://anonymous.4open.science/r/HeMoRa-CVPR/README.md)
+- **Link:** [Link](https://anonymous.4open.science/r/HeMoRa-CVPR/README.md)
 
 ### AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration
 - **Tags:** 3D Point Cloud, 3D Registration, Unsupervised Learning, 6-DoF Transformations, Robot Modeling
@@ -2363,7 +2363,7 @@
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Multimodal Learning, Depth Estimation, Knowledge Distillation, Real-Time Processing
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration
 - **Tags:** 3DGS (Gaussian Splatting), CLIP, 3D Semantic Segmentation, Open-Vocabulary 3D Understanding, Product Quantization, Language Feature Registration
@@ -2430,7 +2430,7 @@
 
 ### SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation
 - **Tags:** Medical Image Segmentation, 3D Semantic Segmentation, Lightweight Networks, Parameter Aggregation, MRI Segmentation
-- **Link:** [Paper Link](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet)
+- **Link:** [Link](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet)
 
 ### Insightful Instance Features for 3D Instance Segmentation
 - **Tags:** 3D Semantic Segmentation, 3D Reconstruction, Instance-wise Knowledge Aggregation, Truncated Singular Value Decomposition, Ambiguity-Reduced Features
@@ -2470,7 +2470,7 @@
 
 ### OccMamba: Semantic Occupancy Prediction with State Space Models
 - **Tags:** 3D Semantic Segmentation, Mamba, Hierarchical Mamba Module, 3D-to-1D Reordering, Height-Prioritized 2D Hilbert Expansion
-- **Link:** [Paper Link](https://github.com/USTCLH/OccMamba)
+- **Link:** [Link](https://github.com/USTCLH/OccMamba)
 
 ### 3D Dental Model Segmentation with Geometrical Boundary Preserving
 - **Tags:** 3D Semantic Segmentation, Medical Image Segmentation, Boundary-Preserving Segmentation, Cross-Modal Features, 3D Mesh Downsampling
@@ -2502,11 +2502,11 @@
 
 ### GASP: Gaussian Avatars with Synthetic Priors
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Synthetic Data, Real-Time Rendering, Monocular Video
-- **Link:** [Paper Link](https://aka.ms/GASP)
+- **Link:** [Link](https://aka.ms/GASP)
 
 ### S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Super-Resolution, Depth Regularization, Gaussian Shuffle, Blur-Free Inconsistency Modeling
-- **Link:** [Paper Link](https://jeasco.github.io/S2Gaussian/)
+- **Link:** [Link](https://jeasco.github.io/S2Gaussian/)
 
 ### Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), Autonomous Driving, Depth Uncertainty Estimation, 3D Gaussians, Uncertainty-aware BEV Features
@@ -2660,7 +2660,7 @@
 
 ### GuardSplat:  Efficient and Robust Watermarking for 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), CLIP, Watermarking, Message Decoupling Optimization, Spherical-harmonic-aware Embedding, Anti-distortion Extraction
-- **Link:** [Paper Link](https://narcissusex.github.io/GuardSplat/)
+- **Link:** [Link](https://narcissusex.github.io/GuardSplat/)
 
 ### Let's Chorus: Partner-aware Hybrid Song-Driven 3D Head Animation
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Variational Autoencoder (VAE), Emotional Feature Extraction, Interactive Animation
@@ -2748,7 +2748,7 @@
 
 ### Generative Gaussian Splatting for Unbounded 3D City Generation
 - **Tags:** 3DGS (Gaussian Splatting), 3D Generation, BEV-Point Representation, Spatial-aware Decoder, Unbounded Scene Generation
-- **Link:** [Paper Link](https://www.infinitescript.com/project/gaussian-city)
+- **Link:** [Link](https://www.infinitescript.com/project/gaussian-city)
 
 ### SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Second-Order Statistics, Selective Gradient Loss, Covariance-Based Features
@@ -2785,7 +2785,7 @@
 
 ### CoMapGS: Covisiblility Map-based Gaussian Splatting for Sparse Novel View Synthesis
 - **Tags:** 3DGS (Gaussian Splatting), Novel View Synthesis, Covisibility Maps, Uncertainty-Aware Supervision, Point Cloud Enhancement
-- **Link:** [Paper Link](https://youngkyoonjang.github.io/projects/comapgs/)
+- **Link:** [Link](https://youngkyoonjang.github.io/projects/comapgs/)
 
 ### DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Dynamic Rendering Resolution, Primitive Growth Scheduling, Frequency Component Fitting
@@ -2915,7 +2915,7 @@
 
 ### BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Score Distillation Sampling (SDS), MANO Hand Model, Bimanual Interaction Reconstruction
-- **Link:** [Paper Link](https://github.com/On-JungWoan/BIGS)
+- **Link:** [Link](https://github.com/On-JungWoan/BIGS)
 
 ### Textured Gaussians for Enhanced 3D Scene Appearance Modeling
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Texture Mapping, Alpha Mapping, Enhanced 3D Rendering
@@ -2958,7 +2958,7 @@
 
 ### DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation
 - **Tags:** Autonomous Driving, 3DGS (Gaussian Splatting), 4D Reconstruction, Spatial-Temporal Consistency, Trajectory Video Synthesis
-- **Link:** [Paper Link](https://drivedreamer4d.github.io/)
+- **Link:** [Link](https://drivedreamer4d.github.io/)
 
 ### MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing
 - **Tags:** Avatars, 3DGS (Gaussian Splatting), FLAME Mesh, Deferred Neural Rendering, Occlusion-Aware Blending
@@ -3118,7 +3118,7 @@
 
 ### InsTaG: Learning Personalized 3D Talking Head from Few-Second Video
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Few-Shot Learning, Motion Priors, Lightweight 3D Synthesis
-- **Link:** [Paper Link](https://fictionarry.github.io/InsTaG/)
+- **Link:** [Link](https://fictionarry.github.io/InsTaG/)
 
 ### FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement
 - **Tags:** 3DGS (Gaussian Splatting), Multimodal Large Language Models (MLLMs), 3D Object Detection, 3D Semantic Scene Completion, Geometric Reasoning, Common Sense Reasoning, 3D Scene Generation
@@ -3134,7 +3134,7 @@
 
 ### LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences
 - **Tags:** 3DGS (Gaussian Splatting), Vision-Language Models (VLMs), Adaptive Visual Preferences, Scene Magnifier Module, Cross-Room Understanding Benchmark
-- **Link:** [Paper Link](https://arxiv.org/abs/2412.01292)
+- **Link:** [Link](https://arxiv.org/abs/2412.01292)
 
 ### Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization
 - **Tags:** 3DGS (Gaussian Splatting), Text-to-Image Generation, RGBD Diffusion Model, Depth-Guided Cross Attention, Warp ControlNet
@@ -3284,7 +3284,7 @@
 
 ### $Neuron$: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition
 - **Tags:** Zero-Shot Learning, Action Detection, Spatial-Temporal Evolving Prototypes, Cross-Modal Alignment, Dynamic Context-Aware Learning
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Neuron)
+- **Link:** [Link](https://anonymous.4open.science/r/Neuron)
 
 ### Action Detail Matters: Refining Video Recognition with Local Action Queries
 - **Tags:** Video Understanding, Action Detection, Learnable Action Queries, Parameter-Free Feature Interaction, Local Action Streaming
@@ -3331,15 +3331,15 @@
 
 ### Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection
 - **Tags:** Diffusion Models, Anomaly Detection, Selective Region Alteration, Latent Space Modeling, Pixel-Level Anomaly Localization
-- **Link:** [Paper Link](https://anonymous.4open.science/r/DeCo-Diff)
+- **Link:** [Link](https://anonymous.4open.science/r/DeCo-Diff)
 
 ### OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection
 - **Tags:** Medical Image Analysis, Anomaly Detection, Out-of-Distribution Detection, Healthcare AI, Benchmarking
-- **Link:** [Paper Link](https://github.com/xxxx/xxx)
+- **Link:** [Link](https://github.com/xxxx/xxx)
 
 ### UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection
 - **Tags:** Anomaly Detection, Contrastive Learning, Feature Selection, Student-Teacher Models, Weighted Decision Mechanism
-- **Link:** [Paper Link](https://pangdatangtt.github.io/)
+- **Link:** [Link](https://pangdatangtt.github.io/)
 
 ### TailedCore : Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection
 - **Tags:** Anomaly Detection, Long-Tail Learning, Memory-Based Models, Class Size Prediction, Noise Robustness
@@ -3364,7 +3364,7 @@
 
 ### DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection
 - **Tags:** Multimodal Learning, Anomaly Detection, Dynamic Prototype Updating, Intra-Class Variability, Multimodal Robustness
-- **Link:** [Paper Link](https://anonymous.4open.science/r/CVPR-9177)
+- **Link:** [Link](https://anonymous.4open.science/r/CVPR-9177)
 
 ### Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity
 - **Tags:** Video Understanding, Anomaly Detection, Large Language Models (LLMs), Multimodal Learning, Hierarchical Annotations, Temporal Sampling, Visual-Language Models
@@ -3419,7 +3419,7 @@
 
 ### UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection
 - **Tags:** Anomaly Detection, Few-shot Learning, Training-free Model, Cross-domain Generalization, Component-Level Anomaly Detection
-- **Link:** [Paper Link](https://uni-vad.github.io/)
+- **Link:** [Link](https://uni-vad.github.io/)
 
 ### Towards Training-free Anomaly Detection with Vision and Language Foundation Models
 - **Tags:** Anomaly Detection, Multimodal Large Language Models (MLLMs), Training-free Framework, Multi-granularity Detection, Calibration Module
@@ -3444,7 +3444,7 @@
 
 ### OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary
 - **Tags:** Anomaly Detection, Out-of-Distribution Detection, Dynamic Dictionary, Priority Queue, Dual Stabilization Mechanism
-- **Link:** [Paper Link](https://github.com/zxk1212/OODD)
+- **Link:** [Link](https://github.com/zxk1212/OODD)
 
 ### Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models
 - **Tags:** Zero-Shot Learning, Anomaly Detection, Multimodal Large Language Models (MLLMs), Look-Twice Feature Matching (LTFM), Visual Instruction Tuning, Specialist Visual Assistant
@@ -3482,7 +3482,7 @@
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Multimodal Learning, Depth Estimation, Knowledge Distillation, Real-Time Processing
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras
 - **Tags:** 3D Object Detection, Autonomous Driving, Event Cameras, High Temporal Resolution, DSEC-3DOD Dataset
@@ -3663,7 +3663,7 @@
 
 ### DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation
 - **Tags:** Autonomous Driving, 3DGS (Gaussian Splatting), 4D Reconstruction, Spatial-Temporal Consistency, Trajectory Video Synthesis
-- **Link:** [Paper Link](https://drivedreamer4d.github.io/)
+- **Link:** [Link](https://drivedreamer4d.github.io/)
 
 ### DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-based Refinement
 - **Tags:** Autonomous Driving, 3D Point Cloud, Diffusion Models, Semantic Distillation, Pose Estimation Refinement, Generative Diversity
@@ -3811,7 +3811,7 @@
 
 ### MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
 - **Tags:** 3D Reconstruction, Autonomous Driving, NeRF (Neural Radiance Fields), Datasets and Benchmarks, Distributed SLAM, Peer-to-Peer Communication, Intra-to-Inter Loop Closure
-- **Link:** [Paper Link](https://anonymous.4open.science/w/ins-BD50/)
+- **Link:** [Link](https://anonymous.4open.science/w/ins-BD50/)
 
 ### SceneCrafter: Controllable Multi-View Driving Scene Editing
 - **Tags:** 3D Generation, Autonomous Driving, Diffusion Models, Multi-View Consistency, Alpha-Blending, Masked Training
@@ -3828,7 +3828,7 @@
 
 ### GASP: Gaussian Avatars with Synthetic Priors
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Synthetic Data, Real-Time Rendering, Monocular Video
-- **Link:** [Paper Link](https://aka.ms/GASP)
+- **Link:** [Link](https://aka.ms/GASP)
 
 ### 3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Tensorial Representation, Dynamic Texture Encoding, Real-Time Rendering
@@ -3961,7 +3961,7 @@
 
 ### BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Score Distillation Sampling (SDS), MANO Hand Model, Bimanual Interaction Reconstruction
-- **Link:** [Paper Link](https://github.com/On-JungWoan/BIGS)
+- **Link:** [Link](https://github.com/On-JungWoan/BIGS)
 
 ### Free-form Generation Enhances Challenging Clothed Human Modeling
 - **Tags:** Avatars, 3D Reconstruction, Free-form Generation, Clothing Deformation, Hybrid Framework
@@ -4055,7 +4055,7 @@
 
 ### InsTaG: Learning Personalized 3D Talking Head from Few-Second Video
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Few-Shot Learning, Motion Priors, Lightweight 3D Synthesis
-- **Link:** [Paper Link](https://fictionarry.github.io/InsTaG/)
+- **Link:** [Link](https://fictionarry.github.io/InsTaG/)
 
 ### Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References
 - **Tags:** Avatars, 3D Human Pose Estimation, Motion Synthesis, Kinematic Interpolation, Natural Movement Transfer
@@ -4074,7 +4074,7 @@
 
 ### High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model
 - **Tags:** Avatars, Diffusion Models, 3D Mesh Rendering, Feature Subspace Manipulation, Lighting Control
-- **Link:** [Paper Link](https://mingtaoguo.github.io/)
+- **Link:** [Link](https://mingtaoguo.github.io/)
 
 ### Omni-ID: Holistic Identity Representation Designed for Generative Tasks
 - **Tags:** Avatars, Image Generation, Facial Representation, Generative Objective, Multi-Decoder Framework
@@ -4121,7 +4121,7 @@
 
 ### MambaVision: A Hybrid Mamba-Transformer Vision Backbone
 - **Tags:** Mamba, Vision Transformer (ViT), Backbone, Hybrid Architecture, Self-Attention, Hierarchical Design
-- **Link:** [Paper Link](https://github.com/NVlabs/MambaVision)
+- **Link:** [Link](https://github.com/NVlabs/MambaVision)
 
 ### PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection
 - **Tags:** Backbone, Anomaly Detection, Uncertainty-Based Detection, Dropout Inference, Neuron Bias Effect
@@ -4143,7 +4143,7 @@
 
 ### $ShiftwiseConv$: Small Convolutional Kernel with Large Kernel Effect
 - **Tags:** Backbone, Convolutional Neural Networks (CNNs), Feature Fusion, Sparse Dependency, Shiftwise Convolution, Feature Extraction, Multi-path Dependency
-- **Link:** [Paper Link](https://anonymous.4open.science/r/shift-wiseConv-8978)
+- **Link:** [Link](https://anonymous.4open.science/r/shift-wiseConv-8978)
 
 ### SparseAlign: a Fully Sparse Framework for Cooperative Object Detection
 - **Tags:** Autonomous Driving, 3D Object Detection, Sparse Frameworks, Sparse 3D Backbone, Query-based Temporal Context Learning, Sparse Feature Detection
@@ -4217,7 +4217,7 @@
 
 ### Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions
 - **Tags:** Text-to-Image Generation, CLIP, Token-Level Directions, Subject-Specific Attribute Control, Prompt Augmentation
-- **Link:** [Paper Link](https://compvis.github.io/attribute-control/)
+- **Link:** [Link](https://compvis.github.io/attribute-control/)
 
 ### DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models
 - **Tags:** Vision-Language Models, CLIP, Prompt Tuning, Weighting-Decoupling, Dynamic Hard Negative Optimizer, Feature Channel Invariance
@@ -4230,7 +4230,7 @@
 
 ### GuardSplat:  Efficient and Robust Watermarking for 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), CLIP, Watermarking, Message Decoupling Optimization, Spherical-harmonic-aware Embedding, Anti-distortion Extraction
-- **Link:** [Paper Link](https://narcissusex.github.io/GuardSplat/)
+- **Link:** [Link](https://narcissusex.github.io/GuardSplat/)
 
 ### Scaling Vision Pre-Training to 4K Resolution
 - **Tags:** CLIP, Multimodal Large Language Models (MLLMs), High-Resolution Vision, Selective Region Processing, 4K Benchmark
@@ -4273,7 +4273,7 @@
 
 ### OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP
 - **Tags:** CLIP, Open-Set Domain Generalization, Low-Shot Learning, Prompt-Learning, Cross-Attention Module, Pseudo-Open Sample Synthesis
-- **Link:** [Paper Link](https://has97.github.io/projects/osloprompt/)
+- **Link:** [Link](https://has97.github.io/projects/osloprompt/)
 
 ### Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment
 - **Tags:** Multimodal Learning, CLIP, Frozen Encoders, Efficient Multimodal Alignment, MLP Projectors
@@ -4558,7 +4558,7 @@
 
 ### Enhancing Diversity for Data-free Quantization
 - **Tags:** Model Pruning, Data Augmentation, Quantization, Mode Collapse, Feature Diversity
-- **Link:** [Paper Link](https://anonymous.4open.science/r/DFQ-84E6)
+- **Link:** [Link](https://anonymous.4open.science/r/DFQ-84E6)
 
 ### Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key
 - **Tags:** Vision-Language Models (VLMs), Data Augmentation, Direct Preference Optimization (DPO), On-Policy Alignment, Hallucination Mitigation
@@ -4571,7 +4571,7 @@
 
 ### Conical Visual Concentration for Efficient Large Vision-Language Models
 - **Tags:** Vision-Language Models (VLMs), Data Augmentation, Token Reduction, Efficiency Optimization, Multi-modal Performance
-- **Link:** [Paper Link](https://github.com/Cooperx521/PyramidDrop)
+- **Link:** [Link](https://github.com/Cooperx521/PyramidDrop)
 
 ### Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling
 - **Tags:** Image Editing, Data Augmentation, Synthetic Data Generation, Error-Aware Refinement, Weakly-Supervised Learning
@@ -4611,7 +4611,7 @@
 
 ### PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Data Augmentation, Token Compression, Temporal Redundancy, Unified Processing
-- **Link:** [Paper Link](https://github.com/OpenGVLab/PVC)
+- **Link:** [Link](https://github.com/OpenGVLab/PVC)
 
 ### JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration
 - **Tags:** Autonomous Driving, Low-Level Vision, Vision-Language Models (VLMs), Data Augmentation, Unsupervised Learning, Real-World Data Handling, Instruction-Response Dataset
@@ -4684,7 +4684,7 @@
 
 ### ISMimic: Learning Basketball Interaction Skills from Demonstrations
 - **Tags:** Embodied AI, Data Augmentation, Skill Diversity, High-Level Controller Integration, Human-Ball Motion Mimicry
-- **Link:** [Paper Link](https://ismimic.github.io)
+- **Link:** [Link](https://ismimic.github.io)
 
 ### Black-Box Forgery Attacks on Semantic Watermarks for Diffusion Models
 - **Tags:** Diffusion Models, Data Augmentation, Watermark Forgery, Latent Space Manipulation, Security Vulnerability
@@ -4703,7 +4703,7 @@
 
 ### Let Samples Speak:  Mitigating Spurious Correlation by Exploiting the Clusterness of Samples
 - **Tags:** Self-Supervised Learning, Data Augmentation, Feature Transformation, Bias-Invariant Representation, Worst-Group Accuracy
-- **Link:** [Paper Link](https://davelee-uestc.github.io/nsf_cvpr25)
+- **Link:** [Link](https://davelee-uestc.github.io/nsf_cvpr25)
 
 ### Convex Combination Star Shape Prior for Data-driven Image Semantic Segmentation
 - **Tags:** Semantic Segmentation, Data Augmentation, Shape Prior, Smooth Field Function, Variational Segmentation Model
@@ -4774,7 +4774,7 @@
 
 ### Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline
 - **Tags:** Medical Image Segmentation, Datasets and Benchmarks, Interactive Segmentation, Vision Foundational Model, Dense Annotation
-- **Link:** [Paper Link](https://anonymous.4open.science/r/IMIS-Bench-FF8B)
+- **Link:** [Link](https://anonymous.4open.science/r/IMIS-Bench-FF8B)
 
 ### MaSS13K: A Matting-level Semantic Segmentation Benchmark
 - **Tags:** Semantic Segmentation, Datasets and Benchmarks, High-Resolution Segmentation, Mask Complexity, Pseudo Label Integration
@@ -4787,7 +4787,7 @@
 
 ### Automatic Spectral Calibration of Hyperspectral Images: Method, Dataset and Benchmark
 - **Tags:** Low-Level Vision, Datasets and Benchmarks, Hyperspectral Imaging, Illumination Calibration, Transformer Models
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Automatic-spectral-calibration-of-HSI-0C5A)
+- **Link:** [Link](https://anonymous.4open.science/r/Automatic-spectral-calibration-of-HSI-0C5A)
 
 ### M3GYM: A Large-Scale Multimodal Multi-view Multi-person Pose Dataset for Fitness Activity Understanding in Real-world Settings
 - **Tags:** 3D Human Pose Estimation, Datasets and Benchmarks, Multi-view Pose Estimation, Fitness Activity Understanding, Real-world Dataset
@@ -4845,7 +4845,7 @@
 
 ### HD-EPIC: A Highly-Detailed Egocentric Video Dataset
 - **Tags:** Egocentric Video, Multimodal Learning, Datasets and Benchmarks, 3D Digital Twinning, Fine-Grained Action Recognition, Audio-Visual Annotation
-- **Link:** [Paper Link](https://hd-epic.github.io/)
+- **Link:** [Link](https://hd-epic.github.io/)
 
 ### FSboard: Over 3 million characters of ASL fingerspelling collected via smartphones
 - **Tags:** Sign Language Recognition, Datasets and Benchmarks, Mobile Data Collection, Landmark-Based Recognition, On-Device Optimization
@@ -4894,7 +4894,7 @@
 
 ### AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark
 - **Tags:** Generative Adversarial Networks (GANs), Diffusion Models, Datasets and Benchmarks, Fairness Benchmark, Demographic Annotation, AI Face Detection
-- **Link:** [Paper Link](https://anonymous.4open.science/r/AIFaceFairnessBench-E417)
+- **Link:** [Link](https://anonymous.4open.science/r/AIFaceFairnessBench-E417)
 
 ### ARKit LabelMaker: A New Scale for Indoor 3D Scene Understanding Download PDF
 - **Tags:** 3D Semantic Segmentation, Datasets and Benchmarks, Large-Scale Dataset, Dense Semantic Annotations, Zero-Shot Generalization
@@ -4943,7 +4943,7 @@
 
 ### MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
 - **Tags:** 3D Reconstruction, Autonomous Driving, NeRF (Neural Radiance Fields), Datasets and Benchmarks, Distributed SLAM, Peer-to-Peer Communication, Intra-to-Inter Loop Closure
-- **Link:** [Paper Link](https://anonymous.4open.science/w/ins-BD50/)
+- **Link:** [Link](https://anonymous.4open.science/w/ins-BD50/)
 
 </details>
 
@@ -5087,7 +5087,7 @@
 
 ### Point Cloud Upsampling Using Conditional Diffusion Module with Adaptive Noise Suppression
 - **Tags:** 3D Point Cloud, Denoising, Conditional Diffusion Model, Feature Interaction, Noise Suppression
-- **Link:** [Paper Link](https://github.com/Baty2023/PDANS)
+- **Link:** [Link](https://github.com/Baty2023/PDANS)
 
 ### Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion
 - **Tags:** Embodied AI, Diffusion Models, Causal Learning, Denoising Network, Coordinate Regression
@@ -5103,7 +5103,7 @@
 
 ### Complementary Advantages:  Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising
 - **Tags:** Low-Level Vision, Denoising, Multimodal Learning, Frequency Domain Analysis, Image Fusion, Cross-Modal Denoising
-- **Link:** [Paper Link](https://github.com/11679-hub/11679)
+- **Link:** [Link](https://github.com/11679-hub/11679)
 
 ### Pioneering 4-Bit FP Quantization for Diffusion Models: Mixup-Sign Quantization and Timestep-Aware Fine-Tuning
 - **Tags:** Diffusion Models, Model Quantization, Unsigned FP Quantization, Timestep-Aware Fine-Tuning, Denoising-Factor Loss Alignment
@@ -5122,7 +5122,7 @@
 
 ### Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising
 - **Tags:** Self-Supervised Learning, Denoising, Renoised Data Construction, Denoised Consistency Supervision, Single Image Denoising
-- **Link:** [Paper Link](https://anonymous.4open.science/r/P2N-4C8E)
+- **Link:** [Link](https://anonymous.4open.science/r/P2N-4C8E)
 
 ### Certified Human Trajectory Prediction
 - **Tags:** Autonomous Driving, Human Action Prediction, Robustness Certification, Diffusion Models, Trajectory Denoising
@@ -5157,7 +5157,7 @@
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Multimodal Learning, Depth Estimation, Knowledge Distillation, Real-Time Processing
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues
 - **Tags:** Stereo Matching, Depth Estimation, 3D Reconstruction, Hardware-Software Co-Design, Diffractive Optical Elements, IGEV-UNet Fusion
@@ -5344,7 +5344,7 @@
 
 ### SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation
 - **Tags:** Depth Estimation, Diffusion Models, Monocular Depth Estimation, Boundary Sharpness, Zero-Shot Evaluation
-- **Link:** [Paper Link](https://sharpdepth.github.io/)
+- **Link:** [Link](https://sharpdepth.github.io/)
 
 ### Monocular and Generalizable Gaussian Talking Head Animation
 - **Tags:** 3DGS (Gaussian Splatting), Avatars, Depth Estimation, Facial Symmetry, Point Cloud Filtering
@@ -5439,7 +5439,7 @@
 
 ### SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion
 - **Tags:** Image Editing, Diffusion Models, One-Step Inversion, Mask-Guided Editing, Attention Rescaling
-- **Link:** [Paper Link](https://swift-edit.github.io/)
+- **Link:** [Link](https://swift-edit.github.io/)
 
 ### Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis
 - **Tags:** Large Language Models (LLMs), Diffusion Models, Text-to-Image Generation, Autoregressive Models, Self-Attention Mechanisms, Model Fusion
@@ -5455,7 +5455,7 @@
 
 ### VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
 - **Tags:** Embodied AI, Zero-Shot Learning, 3D Reconstruction, Diffusion Models, 3D Hand Trajectories, Coarse-to-Fine Learning, Context-Aware Interaction Planning
-- **Link:** [Paper Link](https://hanzhic.github.io/vidbot-project/)
+- **Link:** [Link](https://hanzhic.github.io/vidbot-project/)
 
 ### Optimizing for the Shortest Path in Denoising Diffusion Model
 - **Tags:** Diffusion Models, Denoising, Shortest-Path Modeling, Residual Propagation, Reconstruction Error Minimization
@@ -5486,7 +5486,7 @@
 
 ### Acc3D: Accelerating Single Image to 3D Diffusion Models via Edge Consistency Guided Score Distillation
 - **Tags:** 3D Generation, Diffusion Models, Edge Consistency, Score Distillation, Adversarial Augmentation
-- **Link:** [Paper Link](https://acc3d-object.github.io/)
+- **Link:** [Link](https://acc3d-object.github.io/)
 
 ### DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis
 - **Tags:** 3D Generation, Diffusion Models, Neural Radiance Fields (NeRFs), View Consistency, Free-Viewpoint Rendering
@@ -5544,11 +5544,11 @@
 
 ### Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation
 - **Tags:** Diffusion Models, Image Generation, Attention Mechanisms, Style-Content Balance, Conditional Inputs
-- **Link:** [Paper Link](https://nadavc220.github.io/conditional-balance.github.io/)
+- **Link:** [Link](https://nadavc220.github.io/conditional-balance.github.io/)
 
 ### VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide
 - **Tags:** Video Generation, Diffusion Models, Temporal Consistency, Prior Distillation, Inference Optimization
-- **Link:** [Paper Link](https://videoguide2025.github.io/)
+- **Link:** [Link](https://videoguide2025.github.io/)
 
 ### MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation
 - **Tags:** Diffusion Models, Video Understanding, Long-Term Prediction, Temporal Modeling, Stochastic Models
@@ -5606,7 +5606,7 @@
 
 ### WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model
 - **Tags:** Video Generation, Latent Video Diffusion Models (LVDMs), Wavelet Transform, Causal Cache, Low-Frequency Energy Flow, Multi-Level Wavelet Transform
-- **Link:** [Paper Link](https://github.com/PKU-YuanGroup/WF-VAE)
+- **Link:** [Link](https://github.com/PKU-YuanGroup/WF-VAE)
 
 ### Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation
 - **Tags:** Diffusion Models, Image Generation, Adaptive Noise Scheduling, Reinforcement Learning, Efficient Image Generation
@@ -5616,7 +5616,7 @@
 
 ### Interpretable Generative Models through Post-hoc Concept Bottlenecks
 - **Tags:** Generative Adversarial Networks (GANs), Diffusion Models, Post-hoc Interpretability, Concept Bottleneck Models, Steerability
-- **Link:** [Paper Link](https://lilywenglab.github.io/posthoc-generative-cbm/)
+- **Link:** [Link](https://lilywenglab.github.io/posthoc-generative-cbm/)
 
 ### ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On
 - **Tags:** Diffusion Models, Image Editing, Masked Diffusion Transformer, Dynamic Feature Aggregation, Salient Region Extraction
@@ -5653,14 +5653,14 @@
 
 ### Identity-Preserving Text-to-Video Generation by Frequency Decomposition
 - **Tags:** Video Generation, Diffusion Models, Frequency Decomposition, Identity Preservation, Diffusion Transformer
-- **Link:** [Paper Link](https://pku-yuangroup.github.io/ConsisID)
+- **Link:** [Link](https://pku-yuangroup.github.io/ConsisID)
 
 ### Estimating Body and Hand Motion in an Ego‑sensed World
 - **Tags:** 3D Human Pose Estimation, 3D Human Mesh Estimation, Egocentric Sensing, Conditional Diffusion Models, Allocentric Coordinate Frame
 
 ### Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation
 - **Tags:** Video Generation, Diffusion Models, Point Tracking, Spatial Supervision, Temporal Stability
-- **Link:** [Paper Link](https://anonymous1anonymous2.github.io/)
+- **Link:** [Link](https://anonymous1anonymous2.github.io/)
 
 ### LUMINET: Image-based Indoor Scene Relighting via Latent Intrinsics
 - **Tags:** Image Editing, Diffusion Models, Latent Intrinsic Representations, Lighting Transfer, Cross-Attention Mechanism
@@ -5724,7 +5724,7 @@
 
 ### Curriculum Direct Preference Optimization for Diffusion and Consistency Models
 - **Tags:** Diffusion Models, Text-to-Image Generation, Curriculum Learning, Human Preference Optimization, Text Alignment
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Curriculum-DPO-757F)
+- **Link:** [Link](https://anonymous.4open.science/r/Curriculum-DPO-757F)
 
 ### FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error
 - **Tags:** Diffusion Models, Image Generation, Frequency Decomposition, Reconstruction Error, Image Forensics
@@ -5779,7 +5779,7 @@
 
 ### Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection
 - **Tags:** Diffusion Models, Anomaly Detection, Selective Region Alteration, Latent Space Modeling, Pixel-Level Anomaly Localization
-- **Link:** [Paper Link](https://anonymous.4open.science/r/DeCo-Diff)
+- **Link:** [Link](https://anonymous.4open.science/r/DeCo-Diff)
 
 ### MATCHA: Towards Matching Anything
 - **Tags:** Feature Matching, Diffusion Models, Attention Mechanism, Unified Feature Model, DINOv2 Integration, Attention-Based Fusion
@@ -5822,7 +5822,7 @@
 
 ### Do Visual Imaginations Improve Vision-and-Language Navigation Agents?
 - **Tags:** Vision-Language Models (VLMs), Diffusion Models, Text-to-Image Synthesis, Auxiliary Loss, Landmark Cues
-- **Link:** [Paper Link](https://www.akhilperincherry.com/VLN-Imagine-website/)
+- **Link:** [Link](https://www.akhilperincherry.com/VLN-Imagine-website/)
 
 ### Nonisotropic Gaussian Diffusion for Realistic 3D Human Motion Prediction
 - **Tags:** 3D Human Pose Estimation, Diffusion Models, Human Motion Prediction, Nonisotropic Gaussian Diffusion, Skeleton-Based Modeling
@@ -5862,7 +5862,7 @@
 
 ### 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion
 - **Tags:** 3D Generation, Diffusion Models, Primitive-based 3D Representation, Diffusion Transformer, Physically Based Rendering
-- **Link:** [Paper Link](https://3dtopia.github.io/3DTopia-XL/)
+- **Link:** [Link](https://3dtopia.github.io/3DTopia-XL/)
 
 ### DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness
 - **Tags:** Embodied AI, Diffusion Models, Dexterous Grasping, Physics-Aware Models, Robotic Manipulation
@@ -5992,7 +5992,7 @@
 
 ### CleanDIFT: Diffusion Features without Noise
 - **Tags:** Diffusion Models, Self-Supervised Learning, Noise-Free Features, Unsupervised Fine-Tuning, Semantic Descriptors
-- **Link:** [Paper Link](https://compvis.github.io/cleandift/)
+- **Link:** [Link](https://compvis.github.io/cleandift/)
 
 ### Animate and Sound an Image
 - **Tags:** Diffusion Models, Video Generation, Multimodal Learning, Diffusion Transformer (DiT), Classifier-Free Guidance, Synchronized Video-Audio Generation
@@ -6071,7 +6071,7 @@
 
 ### Color Conditional Generation  with Sliced Wasserstein Distance
 - **Tags:** Diffusion Models, Image Generation, Sliced Wasserstein Distance, Color Distribution Alignment, Semantic Coherence
-- **Link:** [Paper Link](https://anonymous.4open.science/r/sw-guidance-D64F/)
+- **Link:** [Link](https://anonymous.4open.science/r/sw-guidance-D64F/)
 
 ### From Slow Bidirectional to Fast Causal Video Generator
 - **Tags:** Video Generation, Diffusion Models, Autoregressive Models, Streaming Inference, Asymmetric Distillation
@@ -6156,7 +6156,7 @@
 
 ### U-Know-DiffPAN: An Uncertainty-aware Knowledge Distillation Diffusion Framework with Details Enhancement for PAN-Sharpening
 - **Tags:** Knowledge Distillation, Diffusion Models, Frequency Selective Attention, Wavelet Transforms, Uncertainty Map
-- **Link:** [Paper Link](https://github.com/xxx/yyy)
+- **Link:** [Link](https://github.com/xxx/yyy)
 
 ### MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation
 - **Tags:** 3D Generation, Diffusion Models, Multi-Instance Attention, Scene-Level Supervision, Spatial Coherence
@@ -6175,7 +6175,7 @@
 
 ### Efficient Personalization of Quantized Diffusion Model without Backpropagation
 - **Tags:** Diffusion Models, Text-to-Image Generation, Zeroth-Order Optimization, Subspace Gradient, Partial Uniform Timestep Sampling
-- **Link:** [Paper Link](https://ignoww.github.io/ZOODiP_project/)
+- **Link:** [Link](https://ignoww.github.io/ZOODiP_project/)
 
 ### InterDyn: Controllable Interactive Dynamics with Video Diffusion Models
 - **Tags:** Video Generation, Diffusion Models, Interactive Control Mechanism, Implicit Physics Simulation, Temporal Consistency
@@ -6206,7 +6206,7 @@
 
 ### Divide and Conquer: Heterogeneous Noise Integration for Diffusion-based Adversarial Purification
 - **Tags:** Diffusion Models, Adversarial Purification, Selective Noise Application, Single-Step Resampling, Adversarial Defense
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Purification-35BE-0829)
+- **Link:** [Link](https://anonymous.4open.science/r/Purification-35BE-0829)
 
 ### Video Motion Transfer with Diffusion Transformers
 - **Tags:** Diffusion Models, Video Generation, Attention Motion Flow, Training-Free Optimization, Zero-Shot Motion Transfer
@@ -6246,7 +6246,7 @@
 
 ### Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing
 - **Tags:** Diffusion Models, Image Compressive Sensing, Deep Unfolding Networks, Diffusion Message Passing, Reconstruction Efficiency
-- **Link:** [Paper Link](https://github.com/FengodChen/DMP-DUN-CVPR2025)
+- **Link:** [Link](https://github.com/FengodChen/DMP-DUN-CVPR2025)
 
 ### PCM : Picard Consistency Model for Fast Parallel Sampling of Diffuson Models
 - **Tags:** Diffusion Models, Parallel Sampling, Picard Iteration, Model Switching, Fixed-Point Prediction
@@ -6268,7 +6268,7 @@
 
 ### DICE: Discrete Inversion Enabling Controllable Editing for Masked Generative Models
 - **Tags:** Diffusion Models, Image Editing, Controllable Editing, Discrete Diffusion Models, Noise Sequence Capture
-- **Link:** [Paper Link](https://hexiaoxiao-cs.github.io/DICE/)
+- **Link:** [Link](https://hexiaoxiao-cs.github.io/DICE/)
 
 ### Memories of Forgotten Concepts
 - **Tags:** Diffusion Models, Text-to-Image Generation, Concept Ablation, Latent Space Analysis, Inversion Methods
@@ -6281,7 +6281,7 @@
 
 ### ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions
 - **Tags:** Video Generation, Multimodal Learning, Instructional Video Processing, Scene-Conditioned Generation, Video Diffusion Models
-- **Link:** [Paper Link](https://soczech.github.io/showhowto/)
+- **Link:** [Link](https://soczech.github.io/showhowto/)
 
 ### Alias-free Latent Diffusion Models: Improving Fractional Shift Equivariance of Diffusion Latent Space
 - **Tags:** Diffusion Models, Latent Diffusion Models (LDMs), Image Editing, Shift-Equivariance, Anti-Aliasing, Consistency in Generation
@@ -6324,7 +6324,7 @@
 
 ### AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data
 - **Tags:** Algorithmic Fairness, Diffusion Models, Contextual Synthetic Data Generation, Selective Fine-Tuning, Text-to-Image Diffusion Model, Context-Aware LLM, Selective Parameter Update
-- **Link:** [Paper Link](https://zengqunzhao.github.io/AIMFair)
+- **Link:** [Link](https://zengqunzhao.github.io/AIMFair)
 
 ### Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data
 - **Tags:** 3D Generation, Diffusion Models, Text-to-Image Generation, Text-to-Mesh Generation, Progressive Rendering, Score Distillation
@@ -6367,7 +6367,7 @@
 
 ### Enhancing Facial Privacy Protection via Weakening Diffusion Purification
 - **Tags:** Diffusion Models, Facial Privacy Protection, Adversarial Modifications, Identity-Preserving Structure, Unconditional Embeddings
-- **Link:** [Paper Link](https://github.com/parham1998/Facial-Privacy-Protection)
+- **Link:** [Link](https://github.com/parham1998/Facial-Privacy-Protection)
 
 ### Identity-preserving Distillation Sampling by Fixed-Point Iterator
 - **Tags:** Diffusion Models, Image Editing, Neural Radiance Fields (NeRF), Regularization Techniques, Gradient Correction
@@ -6437,14 +6437,14 @@
 
 ### AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark
 - **Tags:** Generative Adversarial Networks (GANs), Diffusion Models, Datasets and Benchmarks, Fairness Benchmark, Demographic Annotation, AI Face Detection
-- **Link:** [Paper Link](https://anonymous.4open.science/r/AIFaceFairnessBench-E417)
+- **Link:** [Link](https://anonymous.4open.science/r/AIFaceFairnessBench-E417)
 
 ### D$^2$iT: Dynamic Diffusion Transformer for Accurate Image Generation
 - **Tags:** Diffusion Models, Image Generation, Dynamic Compression, Multi-Grained Noise Prediction, Hierarchical Encoding
 
 ### Generative Omnimatte: Learning to Decompose Video into Layers
 - **Tags:** Video Understanding, Diffusion Models, Video Decomposition, Occlusion Completion, Scene Effects Removal
-- **Link:** [Paper Link](https://gen-omnimatte.github.io/)
+- **Link:** [Link](https://gen-omnimatte.github.io/)
 
 ### Hierarchical Flow Diffusion for Efficient Frame Interpolation
 - **Tags:** Diffusion Models, Video Understanding, Optical Flow, Hierarchical Models, Frame Interpolation
@@ -6496,7 +6496,7 @@
 
 ### Birth and Death of a Rose
 - **Tags:** 3D Generation, Diffusion Models, Temporal Consistency, Neural Templates, Controllable Rendering
-- **Link:** [Paper Link](https://chen-geng.com/rose4d)
+- **Link:** [Link](https://chen-geng.com/rose4d)
 
 ### Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization
 - **Tags:** Image Editing, Diffusion Models, Video Understanding, Temporal Coherence, Lighting Harmonization, Unsupervised Learning
@@ -6596,7 +6596,7 @@
 
 ### Detail-Preserving Latent Diffusion for Stable Shadow Removal
 - **Tags:** Diffusion Models, Image Editing, Stable Diffusion, Shadow Removal, Detail Preservation
-- **Link:** [Paper Link](https://hiahia1369.github.io/project/StableShadowRemoval/)
+- **Link:** [Link](https://hiahia1369.github.io/project/StableShadowRemoval/)
 
 ### Training-free Video Semantic Segmentation based on Diffusion Models
 - **Tags:** Diffusion Models, Video Semantic Segmentation, Training-free, Temporal Consistency, Masked Modulation
@@ -6615,7 +6615,7 @@
 
 ### Optical-Flow Guided Prompt Optimization for Coherent Video Generation
 - **Tags:** Video Generation, Diffusion Models, Optical Flow, Temporal Consistency, Learnable Token Embeddings
-- **Link:** [Paper Link](https://motionprompt.github.io/anon7165/)
+- **Link:** [Link](https://motionprompt.github.io/anon7165/)
 
 ### Pippo: High-Resolution Multi-View Humans from a Single Image
 - **Tags:** 3D Generation, Diffusion Models, Multi-View Synthesis, Diffusion Transformer, 3D Consistency Metric
@@ -6667,7 +6667,7 @@
 
 ### AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea
 - **Tags:** Image Editing, Diffusion Models, Task-aware Routing, Learnable Task Embedding, Multi-modal Dataset
-- **Link:** [Paper Link](https://anonymous.4open.science/r/AnyEdit-C53B)
+- **Link:** [Link](https://anonymous.4open.science/r/AnyEdit-C53B)
 
 ### Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks
 - **Tags:** Diffusion Models, Vision Transformer (ViT), Speech Audio Conditioning, Identity Reference Network, Long-Duration Video Extrapolation
@@ -6767,7 +6767,7 @@
 
 ### Towards Transformer-Based Aligned Generation with Self-Coherence Guidance
 - **Tags:** Diffusion Models, Text-to-Image Generation, Cross-Attention Optimization, Training-Free Enhancement, Semantic Alignment
-- **Link:** [Paper Link](https://scg-diffusion.github.io/scg-diffusion)
+- **Link:** [Link](https://scg-diffusion.github.io/scg-diffusion)
 
 ### MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction
 - **Tags:** 3D Reconstruction, 3D Human Mesh Estimation, Fourier Features, Diffusion Models, Depth Estimation
@@ -6816,7 +6816,7 @@
 
 ### Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers
 - **Tags:** Diffusion Models, Post-Training Quantization, Quantization Granularity Allocation, Dynamic Activation Quantization, Model Compression
-- **Link:** [Paper Link](https://q-dit.github.io/)
+- **Link:** [Link](https://q-dit.github.io/)
 
 ### AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion
 - **Tags:** Video Generation, Diffusion Models, Temporal Coherence, Timestep Schedulers, Asynchronous Generation
@@ -6826,11 +6826,11 @@
 
 ### Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network
 - **Tags:** Diffusion Models, Image Generation, Kolmogorov-Arnold Network, Local Optimization, Computational Efficiency
-- **Link:** [Paper Link](https://github.com/****)
+- **Link:** [Link](https://github.com/****)
 
 ### StoryGPT-V: Large Language Models as Consistent Story Visualizers
 - **Tags:** Large Language Models (LLMs), Image Generation, Anaphora Resolution, Character Consistency, Latent Diffusion Models
-- **Link:** [Paper Link](https://storygpt-v.s3.amazonaws.com/index.html)
+- **Link:** [Link](https://storygpt-v.s3.amazonaws.com/index.html)
 
 ### You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale
 - **Tags:** 3D Generation, Diffusion Models, Multi-View Diffusion, Pose-Free Learning, Open-World 3D Creation
@@ -6861,11 +6861,11 @@
 
 ### High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model
 - **Tags:** Avatars, Diffusion Models, 3D Mesh Rendering, Feature Subspace Manipulation, Lighting Control
-- **Link:** [Paper Link](https://mingtaoguo.github.io/)
+- **Link:** [Link](https://mingtaoguo.github.io/)
 
 ### SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation
 - **Tags:** Depth Estimation, Diffusion Models, Monocular Depth Estimation, Boundary Sharpness, Zero-Shot Evaluation
-- **Link:** [Paper Link](https://sharpdepth.github.io/)
+- **Link:** [Link](https://sharpdepth.github.io/)
 
 ### MTADiffusion: Mask Text Alignment Diffusion Model for Object Inpainting
 - **Tags:** Image Inpainting, Diffusion Models, Mask-Text Alignment, Style-Consistency Loss, Multi-Task Training
@@ -6902,7 +6902,7 @@
 
 ### PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction
 - **Tags:** Text-to-Image Generation, Query Performance Prediction, Human Annotations, Diffusion Models, Performance Prediction
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PQPP-D332)
+- **Link:** [Link](https://anonymous.4open.science/r/PQPP-D332)
 
 ### Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation
 - **Tags:** Diffusion Models, Visual Geolocation, Riemannian Flow Matching, Probabilistic Geolocation, Earth Surface Modeling
@@ -6918,7 +6918,7 @@
 
 ### ZoomLDM: Latent Diffusion Model for multi-scale image generation
 - **Tags:** Diffusion Models, Image Generation, Self-Supervised Learning, Multi-Scale Image Generation, Magnification-Aware Conditioning, Multi-Scale Features, Large Image Synthesis
-- **Link:** [Paper Link](https://histodiffusion.github.io/docs/publications/zoomldm/)
+- **Link:** [Link](https://histodiffusion.github.io/docs/publications/zoomldm/)
 
 ### Attention Distillation: A Unified Approach to Visual Characteristics Transfer
 - **Tags:** Diffusion Models, Image Editing, Attention Distillation, Latent Space Optimization, Classifier Guidance
@@ -7010,7 +7010,7 @@
 
 ### VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
 - **Tags:** Embodied AI, Zero-Shot Learning, 3D Reconstruction, Diffusion Models, 3D Hand Trajectories, Coarse-to-Fine Learning, Context-Aware Interaction Planning
-- **Link:** [Paper Link](https://hanzhic.github.io/vidbot-project/)
+- **Link:** [Link](https://hanzhic.github.io/vidbot-project/)
 
 ### Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment
 - **Tags:** Embodied AI, Human Action Prediction, Differentiable Physics Simulation, Stochastic HTP Network, Locomotion Value Filter
@@ -7041,7 +7041,7 @@
 
 ### Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach
 - **Tags:** Embodied AI, Visual Navigation, Latent Memory, Value Function, Real-World Robotics
-- **Link:** [Paper Link](https://visual-navigation-reasoning.github.io)
+- **Link:** [Link](https://visual-navigation-reasoning.github.io)
 
 ### Spatial-Temporal Graph Diffusion Policy with Kinematics Modeling for Bimanual Robotic Manipulation
 - **Tags:** Embodied AI, Graph Neural Networks (GNNs), Bimanual Manipulation, Differentiable Kinematics, Dynamic Spatial-Temporal Graph
@@ -7159,7 +7159,7 @@
 
 ### R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner
 - **Tags:** Embodied AI, Large Language Models (LLMs), Grid-based Semantic Representation, Chain-of-Thought Decision, Real-time Robot Adaptation
-- **Link:** [Paper Link](https://anonymous4cv.github.io/Room2Chessboard/)
+- **Link:** [Link](https://anonymous4cv.github.io/Room2Chessboard/)
 
 ### Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation
 - **Tags:** Vision-Language Models (VLMs), Embodied AI, Robotic Manipulation, Multi-Modal Prompts, SE(3) Space Prediction, Long-Horizon Task Execution
@@ -7184,7 +7184,7 @@
 
 ### ISMimic: Learning Basketball Interaction Skills from Demonstrations
 - **Tags:** Embodied AI, Data Augmentation, Skill Diversity, High-Level Controller Integration, Human-Ball Motion Mimicry
-- **Link:** [Paper Link](https://ismimic.github.io)
+- **Link:** [Link](https://ismimic.github.io)
 
 ### ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting
 - **Tags:** Vision-Language Models (VLMs), Embodied AI, Object Segmentation, Real-Time Object Tracking, Spatial Reasoning
@@ -7203,7 +7203,7 @@
 
 ### PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - **Tags:** Vision-Language Models (VLMs), Embodied AI, Robotic Physical Reachability, Space-Physical Reachability Map (S-P Map), Multi-Robot Dataset
-- **Link:** [Paper Link](https://github.com/unira-zwj/PhysVLM)
+- **Link:** [Link](https://github.com/unira-zwj/PhysVLM)
 
 </details>
 
@@ -7226,7 +7226,7 @@
 
 ### EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching
 - **Tags:** Feature Matching, 3D Point Cloud, Spherical Camera Model, Geodesic Flow Refinement, Spherical Positional Embeddings
-- **Link:** [Paper Link](https://anonymous000edm.github.io/)
+- **Link:** [Link](https://anonymous000edm.github.io/)
 
 ### From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Camera Relocalization, Feature Matching, Sparse-to-Dense Paradigm
@@ -7273,7 +7273,7 @@
 
 ### Interpretable Generative Models through Post-hoc Concept Bottlenecks
 - **Tags:** Generative Adversarial Networks (GANs), Diffusion Models, Post-hoc Interpretability, Concept Bottleneck Models, Steerability
-- **Link:** [Paper Link](https://lilywenglab.github.io/posthoc-generative-cbm/)
+- **Link:** [Link](https://lilywenglab.github.io/posthoc-generative-cbm/)
 
 ### Hierarchical Features Matter: A Deep Exploration of Progressive Parameterization Method for Dataset Distillation
 - **Tags:** Dataset Distillation, Generative Adversarial Networks (GANs), Hierarchical Feature Optimization, Class-Relevant Feature Distance, Extreme Compression Ratios
@@ -7313,7 +7313,7 @@
 
 ### AI-Face: A Million-Scale Demographically Annotated AI-Generated Face Dataset and Fairness Benchmark
 - **Tags:** Generative Adversarial Networks (GANs), Diffusion Models, Datasets and Benchmarks, Fairness Benchmark, Demographic Annotation, AI Face Detection
-- **Link:** [Paper Link](https://anonymous.4open.science/r/AIFaceFairnessBench-E417)
+- **Link:** [Link](https://anonymous.4open.science/r/AIFaceFairnessBench-E417)
 
 ### Unveiling Differences in Generative Models: A Scalable Differential Clustering Approach
 - **Tags:** Generative Adversarial Networks (GANs), Data Augmentation, Differential Clustering, Random Fourier Features, Kernel Covariance Matrices
@@ -7534,7 +7534,7 @@
 
 ### SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion
 - **Tags:** Image Editing, Diffusion Models, One-Step Inversion, Mask-Guided Editing, Attention Rescaling
-- **Link:** [Paper Link](https://swift-edit.github.io/)
+- **Link:** [Link](https://swift-edit.github.io/)
 
 ### LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping
 - **Tags:** Image Generation, Image Editing, Laplacian Pyramid Warping, Latent Rectified Flow Models, Perceptual Illusions
@@ -7697,7 +7697,7 @@
 
 ### DICE: Discrete Inversion Enabling Controllable Editing for Masked Generative Models
 - **Tags:** Diffusion Models, Image Editing, Controllable Editing, Discrete Diffusion Models, Noise Sequence Capture
-- **Link:** [Paper Link](https://hexiaoxiao-cs.github.io/DICE/)
+- **Link:** [Link](https://hexiaoxiao-cs.github.io/DICE/)
 
 ### VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding
 - **Tags:** Image Editing, Diffusion Models, Hand Pose Estimation, Feature Disentanglement, Cross Attention
@@ -7779,7 +7779,7 @@
 
 ### Detail-Preserving Latent Diffusion for Stable Shadow Removal
 - **Tags:** Diffusion Models, Image Editing, Stable Diffusion, Shadow Removal, Detail Preservation
-- **Link:** [Paper Link](https://hiahia1369.github.io/project/StableShadowRemoval/)
+- **Link:** [Link](https://hiahia1369.github.io/project/StableShadowRemoval/)
 
 ### Stable Flow: Vital Layers for Training-Free Image Editing
 - **Tags:** Diffusion Models, Image Editing, Attention Feature Injection, Flow-Matching, Image Inversion
@@ -7795,7 +7795,7 @@
 
 ### AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea
 - **Tags:** Image Editing, Diffusion Models, Task-aware Routing, Learnable Task Embedding, Multi-modal Dataset
-- **Link:** [Paper Link](https://anonymous.4open.science/r/AnyEdit-C53B)
+- **Link:** [Link](https://anonymous.4open.science/r/AnyEdit-C53B)
 
 ### FluxSpace: Disentangled Image Editing in Rectified Flow Models
 - **Tags:** Image Editing, Rectified Flow Models, Semantic Manipulation, Transformer-Based Representations, Domain-Agnostic Editing
@@ -7944,7 +7944,7 @@
 
 ### Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation
 - **Tags:** Diffusion Models, Image Generation, Attention Mechanisms, Style-Content Balance, Conditional Inputs
-- **Link:** [Paper Link](https://nadavc220.github.io/conditional-balance.github.io/)
+- **Link:** [Link](https://nadavc220.github.io/conditional-balance.github.io/)
 
 ### ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning
 - **Tags:** CLIP, Self-Supervised Learning, Few-Shot Learning, Text-to-Image Generation, Chain-of-Thought Learning, In-Context Learning
@@ -8017,7 +8017,7 @@
 
 ### Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions
 - **Tags:** Text-to-Image Generation, CLIP, Token-Level Directions, Subject-Specific Attribute Control, Prompt Augmentation
-- **Link:** [Paper Link](https://compvis.github.io/attribute-control/)
+- **Link:** [Link](https://compvis.github.io/attribute-control/)
 
 ### Empowering LLMs to Understand and Generate Complex Vector Graphics
 - **Tags:** Large Language Models (LLMs), Image Generation, Multimodal Learning, Scalable Vector Graphics (SVG), Semantic Tokens, Automated Data Generation
@@ -8030,7 +8030,7 @@
 
 ### Curriculum Direct Preference Optimization for Diffusion and Consistency Models
 - **Tags:** Diffusion Models, Text-to-Image Generation, Curriculum Learning, Human Preference Optimization, Text Alignment
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Curriculum-DPO-757F)
+- **Link:** [Link](https://anonymous.4open.science/r/Curriculum-DPO-757F)
 
 ### FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error
 - **Tags:** Diffusion Models, Image Generation, Frequency Decomposition, Reconstruction Error, Image Forensics
@@ -8199,7 +8199,7 @@
 
 ### Color Conditional Generation  with Sliced Wasserstein Distance
 - **Tags:** Diffusion Models, Image Generation, Sliced Wasserstein Distance, Color Distribution Alignment, Semantic Coherence
-- **Link:** [Paper Link](https://anonymous.4open.science/r/sw-guidance-D64F/)
+- **Link:** [Link](https://anonymous.4open.science/r/sw-guidance-D64F/)
 
 ### ICE: Intrinsic Concept Extraction From a Single Image via Diffusion Models
 - **Tags:** Diffusion Models, Image Editing, Concept Localization, Intrinsic Attribute Decomposition, Personalized Image Generation
@@ -8224,7 +8224,7 @@
 
 ### Yo’Chameleon: Personalized Vision and Language Generation
 - **Tags:** Multimodal Large Language Models (MLLMs), Image Generation, Soft-Prompt Tuning, Few-Shot Learning, Personalized Multimodal Models
-- **Link:** [Paper Link](https://thaoshibe.github.io/YoChameleon)
+- **Link:** [Link](https://thaoshibe.github.io/YoChameleon)
 
 ### Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis
 - **Tags:** Text-to-Image Generation, Image Editing, Camera Intrinsic Control, Scene Consistency, Photorealistic Image Generation
@@ -8255,7 +8255,7 @@
 
 ### Efficient Personalization of Quantized Diffusion Model without Backpropagation
 - **Tags:** Diffusion Models, Text-to-Image Generation, Zeroth-Order Optimization, Subspace Gradient, Partial Uniform Timestep Sampling
-- **Link:** [Paper Link](https://ignoww.github.io/ZOODiP_project/)
+- **Link:** [Link](https://ignoww.github.io/ZOODiP_project/)
 
 ### One Diffusion to Generate Them All
 - **Tags:** Diffusion Models, Image Generation, Image Understanding, Super-Resolution, Text-to-Image Generation, Depth Estimation, Pose Estimation, Open-Vocab Segmentation, Camera Pose Estimation, Unified Diffusion Model, Multi-Task Learning, General-Purpose Diffusion
@@ -8469,7 +8469,7 @@
 
 ### Towards Transformer-Based Aligned Generation with Self-Coherence Guidance
 - **Tags:** Diffusion Models, Text-to-Image Generation, Cross-Attention Optimization, Training-Free Enhancement, Semantic Alignment
-- **Link:** [Paper Link](https://scg-diffusion.github.io/scg-diffusion)
+- **Link:** [Link](https://scg-diffusion.github.io/scg-diffusion)
 
 ### DreamText: High Fidelity Scene Text Synthesis
 - **Tags:** Text-to-Image Generation, Diffusion Models, Character-Level Guidance, Hybrid Optimization, Font Style Adaptation
@@ -8503,18 +8503,18 @@
 
 ### Finding Local Diffusion Schrödinger Bridge using Kolmogorov-Arnold Network
 - **Tags:** Diffusion Models, Image Generation, Kolmogorov-Arnold Network, Local Optimization, Computational Efficiency
-- **Link:** [Paper Link](https://github.com/****)
+- **Link:** [Link](https://github.com/****)
 
 ### StoryGPT-V: Large Language Models as Consistent Story Visualizers
 - **Tags:** Large Language Models (LLMs), Image Generation, Anaphora Resolution, Character Consistency, Latent Diffusion Models
-- **Link:** [Paper Link](https://storygpt-v.s3.amazonaws.com/index.html)
+- **Link:** [Link](https://storygpt-v.s3.amazonaws.com/index.html)
 
 ### DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows
 - **Tags:** Generative Adversarial Networks (GANs), Diffusion Models, Image Generation, Determinantal Point Process, Sample Efficiency, Diverse Mode Coverage
 
 ### CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework
 - **Tags:** 3D Point Cloud, Text-to-Image Generation, Uncertainty Modeling, Spatial Consolidation, Cardinal Direction Integration
-- **Link:** [Paper Link](https://github.com/anonymous0819/CMMLoc)
+- **Link:** [Link](https://github.com/anonymous0819/CMMLoc)
 
 ### Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization
 - **Tags:** 3DGS (Gaussian Splatting), Text-to-Image Generation, RGBD Diffusion Model, Depth-Guided Cross Attention, Warp ControlNet
@@ -8548,7 +8548,7 @@
 
 ### PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction
 - **Tags:** Text-to-Image Generation, Query Performance Prediction, Human Annotations, Diffusion Models, Performance Prediction
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PQPP-D332)
+- **Link:** [Link](https://anonymous.4open.science/r/PQPP-D332)
 
 ### MotionDiT: Text-Based Human Motion Editing with Motion Similarity Prediction via Diffusion Transformers
 - **Tags:** Diffusion Models, 3D Human Pose Estimation, Text-to-Image Generation, Motion Similarity Prediction, Layer-wise Control Signals, Semantic Understanding
@@ -8558,7 +8558,7 @@
 
 ### ZoomLDM: Latent Diffusion Model for multi-scale image generation
 - **Tags:** Diffusion Models, Image Generation, Self-Supervised Learning, Multi-Scale Image Generation, Magnification-Aware Conditioning, Multi-Scale Features, Large Image Synthesis
-- **Link:** [Paper Link](https://histodiffusion.github.io/docs/publications/zoomldm/)
+- **Link:** [Link](https://histodiffusion.github.io/docs/publications/zoomldm/)
 
 ### Text-Driven Fashion Image Editing with Compositional Concept Learning and Counterfactual Abduction
 - **Tags:** Image Editing, Text-to-Image Generation, Counterfactual Reasoning, Compositional Learning, Fashion Image Editing
@@ -8667,7 +8667,7 @@
 
 ### Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference
 - **Tags:** Image Quality Assessment, Causal Inference, Abductive Counterfactual Inference, Perceptual Distortions, Deep Network Features
-- **Link:** [Paper Link](https://anonymous.4open.science/r/DeepCausalQuality-25BC)
+- **Link:** [Link](https://anonymous.4open.science/r/DeepCausalQuality-25BC)
 
 ### Distilling Spatially-Heterogeneous Distortion Perception for Blind Image Quality Assessment
 - **Tags:** Image Quality Assessment, Knowledge Distillation, Spatially Heterogeneous Distortions, Block-wise Degradation Modelling, Contrastive Knowledge Distillation
@@ -8707,7 +8707,7 @@
 
 ### Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment
 - **Tags:** Vision Transformer (ViT), Image Quality Assessment, Tokenization, Multiscale Information, Aspect Ratio Preservation
-- **Link:** [Paper Link](https://github.com/FBehrad/Charm)
+- **Link:** [Link](https://github.com/FBehrad/Charm)
 
 ### Exploring Semantic Feature Discrimination for Perceptual Image Super-Resolution and Opinion-Unaware No-Reference Image Quality Assessment
 - **Tags:** Generative Adversarial Networks (GANs), Super-Resolution, CLIP, Image Quality Assessment, Semantic Feature Discrimination, Text-Guided Discrimination, No-Reference Image Quality Assessment
@@ -8739,7 +8739,7 @@
 
 ### Bias for Action: Video Implicit Neural Representations with Bias Modulation
 - **Tags:** Implicit Neural Representations, Video Processing, Bias Modulation, Video Slow Motion, Spatial Super-Resolution
-- **Link:** [Paper Link](https://alpoler.github.io/actioner)
+- **Link:** [Link](https://alpoler.github.io/actioner)
 
 ### Towards Lossless Implicit Neural Representation via Bit Plane Decomposition
 - **Tags:** Implicit Neural Representations, Low-Level Vision, Bit-Plane Decomposition, Lossless Compression, Network Quantization
@@ -8874,7 +8874,7 @@
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Multimodal Learning, Depth Estimation, Knowledge Distillation, Real-Time Processing
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders
 - **Tags:** Knowledge Distillation, Vision-Language Models (VLMs), Low-Rank Adaptation (LoRA), Mixture-of-Experts (MoEs), Attention-Based Distillation
@@ -8941,11 +8941,11 @@
 
 ### Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking
 - **Tags:** Vision Transformer (ViT), Visual Tracking, Occlusion-Robust Representations, Knowledge Distillation, Real-Time Tracking
-- **Link:** [Paper Link](https://github.com/qtyz-ogvm/ORTrack)
+- **Link:** [Link](https://github.com/qtyz-ogvm/ORTrack)
 
 ### Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves
 - **Tags:** Vision-Language Models (VLMs), Knowledge Distillation, Layer-wise Skipping, Class-wise Skipping, Feature-gradient Propagation
-- **Link:** [Paper Link](https://github.com/anonymity-007/SkipT)
+- **Link:** [Link](https://github.com/anonymity-007/SkipT)
 
 ### Simplification Is All You Need against Out-of-Distribution Overconfidence
 - **Tags:** Knowledge Distillation, Out-of-Distribution Detection, Model Simplification, ReLU Reduction, OOD Overconfidence Mitigation
@@ -8961,7 +8961,7 @@
 
 ### U-Know-DiffPAN: An Uncertainty-aware Knowledge Distillation Diffusion Framework with Details Enhancement for PAN-Sharpening
 - **Tags:** Knowledge Distillation, Diffusion Models, Frequency Selective Attention, Wavelet Transforms, Uncertainty Map
-- **Link:** [Paper Link](https://github.com/xxx/yyy)
+- **Link:** [Link](https://github.com/xxx/yyy)
 
 ### Decoupled Distillation to Erase: A General Unlearning Method for Any Class-centric Tasks
 - **Tags:** Knowledge Distillation, Unlearning, Mask Distillation, Dark Knowledge, Class-centric Unlearning
@@ -9031,7 +9031,7 @@
 
 ### Enhancing Dataset Distillation via Non-Critical Region Refinement
 - **Tags:** Dataset Distillation, Knowledge Distillation, Non-Critical Region Refinement, Distance-Based Knowledge Transfer, Synthetic Data Optimization
-- **Link:** [Paper Link](https://anonymous.4open.science/r/NRR-DD)
+- **Link:** [Link](https://anonymous.4open.science/r/NRR-DD)
 
 ### Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks
 - **Tags:** Knowledge Distillation, Spiking Neural Networks (SNNs), Temporal Separation, Entropy Regularization, Logit Distillation
@@ -9094,7 +9094,7 @@
 
 ### ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices
 - **Tags:** Large Language Models (LLMs), Self-Supervised Learning, Positional Encoding, Attention Mechanism, Trainable Matrices
-- **Link:** [Paper Link](https://anonymous.4open.science/r/ComRoPE-08AA)
+- **Link:** [Link](https://anonymous.4open.science/r/ComRoPE-08AA)
 
 ### GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation
 - **Tags:** Multimodal Large Language Models (MLLMs), Video Object Segmentation, Object Contrastive Learning, Self-Refined Framework, Temporal Information Processing
@@ -9227,7 +9227,7 @@
 
 ### STEP: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training
 - **Tags:** Video Understanding, Multimodal Large Language Models (MLLMs), Spatio-Temporal Scene Graphs, Chain-of-Thought Rationales, Self-Training
-- **Link:** [Paper Link](https://anonymous.4open.science/r/STEP-FE2C/)
+- **Link:** [Link](https://anonymous.4open.science/r/STEP-FE2C/)
 
 ### Empowering LLMs to Understand and Generate Complex Vector Graphics
 - **Tags:** Large Language Models (LLMs), Image Generation, Multimodal Learning, Scalable Vector Graphics (SVG), Semantic Tokens, Automated Data Generation
@@ -9318,7 +9318,7 @@
 
 ### Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval
 - **Tags:** Zero-Shot Learning, Multimodal Large Language Models (MLLMs), Reflective Chain-of-Thought, Training-Free Methods, Vision-Language Applications
-- **Link:** [Paper Link](https://github.com/Pter61/osrcir2024)
+- **Link:** [Link](https://github.com/Pter61/osrcir2024)
 
 ### Docopilot: Improving Multimodal Models for Document-Level Understanding
 - **Tags:** Multimodal Large Language Models (MLLMs), Datasets and Benchmarks, Document-Level Understanding, Native Multimodal Model, Cross-Page Dependencies
@@ -9469,7 +9469,7 @@
 
 ### Yo’Chameleon: Personalized Vision and Language Generation
 - **Tags:** Multimodal Large Language Models (MLLMs), Image Generation, Soft-Prompt Tuning, Few-Shot Learning, Personalized Multimodal Models
-- **Link:** [Paper Link](https://thaoshibe.github.io/YoChameleon)
+- **Link:** [Link](https://thaoshibe.github.io/YoChameleon)
 
 ### Video Summarization with Large Language Models
 - **Tags:** Large Language Models (LLMs), Video Understanding, Image Captioning, Global Attention Mechanism, Semantic Video Analysis
@@ -9560,7 +9560,7 @@
 
 ### Mimic In-Context Learning for Multimodal Tasks
 - **Tags:** Multimodal Large Language Models (MLLMs), In-Context Learning, Transformer-based Models, Shift Vector Learning, Multimodal Task Enhancement
-- **Link:** [Paper Link](https://anonymous.4open.science/r/MimIC/)
+- **Link:** [Link](https://anonymous.4open.science/r/MimIC/)
 
 ### RoboBrain: A Unified  Brain Model for Robotic Manipulation from Abstract to Concrete
 - **Tags:** Multimodal Large Language Models (MLLMs), Robotic Manipulation, Task Planning, Affordance Perception, Trajectory Prediction
@@ -9588,7 +9588,7 @@
 
 ### ProAPO: Progressively Automatic Prompt Optimization for Visual Classification
 - **Tags:** Vision-Language Models (VLMs), Large Language Models (LLMs), Prompt Optimization, Evolution-Based Algorithm, One-Shot Classification
-- **Link:** [Paper Link](https://anonymous.4open.science/r/ProAPO)
+- **Link:** [Link](https://anonymous.4open.science/r/ProAPO)
 
 ### Non-Natural Image Understanding with Advancing Frequency-based Vision Encoders
 - **Tags:** Multimodal Large Language Models (MLLMs), Vision Transformer (ViT), Frequency Modulation, Non-Natural Image Understanding, Fourier Decomposition
@@ -9661,7 +9661,7 @@
 
 ### R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner
 - **Tags:** Embodied AI, Large Language Models (LLMs), Grid-based Semantic Representation, Chain-of-Thought Decision, Real-time Robot Adaptation
-- **Link:** [Paper Link](https://anonymous4cv.github.io/Room2Chessboard/)
+- **Link:** [Link](https://anonymous4cv.github.io/Room2Chessboard/)
 
 ### Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models
 - **Tags:** Large Language Models (LLMs), Text-to-Image Generation, Vector Graphics, Dual-Stage Optimization, Natural Language Editing, Geometric Complexity Enhancement
@@ -9683,7 +9683,7 @@
 
 ### Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning
 - **Tags:** Multimodal Large Language Models (MLLMs), Egocentric Instruction Tuning, Orientation Understanding, Egocentric Viewpoint, Benchmark Evaluation
-- **Link:** [Paper Link](https://anonymous.4open.science/r/EgocentricInstructionTuning-E189)
+- **Link:** [Link](https://anonymous.4open.science/r/EgocentricInstructionTuning-E189)
 
 ### TANGO: Training-free Embodied AI Agents for Open-world Tasks
 - **Tags:** Embodied AI, Large Language Models (LLMs), Zero-Shot Learning, Memory-Based Exploration, Open-World Task Solving
@@ -9774,11 +9774,11 @@
 
 ### FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression
 - **Tags:** Multimodal Large Language Models (MLLMs), Visual Compression, Efficient MLLMs, Visual Token Compression, Instruction-Aware Visual Encoding
-- **Link:** [Paper Link](https://anonymous.4open.science/r/FlashSloth/)
+- **Link:** [Link](https://anonymous.4open.science/r/FlashSloth/)
 
 ### V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents
 - **Tags:** Video Generation, Multimodal Large Language Models (MLLMs), Video-to-Shot Prompting, Tree-of-Thought Searching, Multi-Round Self-Reflection
-- **Link:** [Paper Link](https://zhengrongyue.github.io/v-stylist.github.io/)
+- **Link:** [Link](https://zhengrongyue.github.io/v-stylist.github.io/)
 
 ### StarVector: Generating Scalable Vector Graphics Code from Images and Text
 - **Tags:** Multimodal Large Language Models (MLLMs), Image Generation, SVG Generation, Semantic Understanding, Vector Graphics Benchmarking
@@ -9809,14 +9809,14 @@
 
 ### StoryGPT-V: Large Language Models as Consistent Story Visualizers
 - **Tags:** Large Language Models (LLMs), Image Generation, Anaphora Resolution, Character Consistency, Latent Diffusion Models
-- **Link:** [Paper Link](https://storygpt-v.s3.amazonaws.com/index.html)
+- **Link:** [Link](https://storygpt-v.s3.amazonaws.com/index.html)
 
 ### Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation
 - **Tags:** Diffusion Models, Video Generation, Large Language Models (LLMs), Self-Supervised Learning, Video-to-Text Generation, Text-to-Video Generation
 
 ### RelationField: Relate Anything in Radiance Fields
 - **Tags:** NeRF (Neural Radiance Fields), Multimodal Large Language Models (MLLMs), 3D Scene Graph Generation, Open-Vocabulary Learning, Implicit Relationship Queries
-- **Link:** [Paper Link](https://relationfield.github.io/)
+- **Link:** [Link](https://relationfield.github.io/)
 
 ### Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models
 - **Tags:** Zero-Shot Learning, Anomaly Detection, Multimodal Large Language Models (MLLMs), Look-Twice Feature Matching (LTFM), Visual Instruction Tuning, Specialist Visual Assistant
@@ -10026,11 +10026,11 @@
 
 ### Automatic Spectral Calibration of Hyperspectral Images: Method, Dataset and Benchmark
 - **Tags:** Low-Level Vision, Datasets and Benchmarks, Hyperspectral Imaging, Illumination Calibration, Transformer Models
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Automatic-spectral-calibration-of-HSI-0C5A)
+- **Link:** [Link](https://anonymous.4open.science/r/Automatic-spectral-calibration-of-HSI-0C5A)
 
 ### Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection
 - **Tags:** Object Detection, Low-Level Vision, Infrared Image Processing, Self-Supervised Learning, End-to-End Framework
-- **Link:** [Paper Link](https://github.com/anonymous2025submit/UniCD)
+- **Link:** [Link](https://github.com/anonymous2025submit/UniCD)
 
 ### All-directional Disparity Estimation for Real-world QPD Images
 - **Tags:** Depth Estimation, Low-Level Vision, Quad Photodiode Sensors, Edge-Aware Fusion, Illumination-Invariant Module
@@ -10196,7 +10196,7 @@
 
 ### Complementary Advantages:  Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising
 - **Tags:** Low-Level Vision, Denoising, Multimodal Learning, Frequency Domain Analysis, Image Fusion, Cross-Modal Denoising
-- **Link:** [Paper Link](https://github.com/11679-hub/11679)
+- **Link:** [Link](https://github.com/11679-hub/11679)
 
 ### Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images
 - **Tags:** Diffusion Models, Object Detection, Low-Level Vision, One-Class Classification, Feature Space Transformation, Generative Artifacts Analysis
@@ -10276,7 +10276,7 @@
 
 ### HVI: A New color space for Low-light Image Enhancement
 - **Tags:** Low-Light Image Enhancement, Color Space, Photometric Mapping, Color Artifact Reduction, Intensity Compression
-- **Link:** [Paper Link](https://github.com/Fediory/HVI-CIDNet)
+- **Link:** [Link](https://github.com/Fediory/HVI-CIDNet)
 
 ### Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision
 - **Tags:** Stereo Matching, Multimodal Learning, Low-Light Image Enhancement, Pixel-aligned Imaging, RGB-NIR Fusion, Robotic Vision
@@ -10332,11 +10332,11 @@
 
 ### MambaOut: Do We Really Need Mamba for Vision?
 - **Tags:** Mamba, Vision Transformer (ViT), State Space Model (SSM), Long-Sequence Tasks, Autoregressive Tasks
-- **Link:** [Paper Link](https://github.com/yuweihao/MambaOut)
+- **Link:** [Link](https://github.com/yuweihao/MambaOut)
 
 ### MambaVision: A Hybrid Mamba-Transformer Vision Backbone
 - **Tags:** Mamba, Vision Transformer (ViT), Backbone, Hybrid Architecture, Self-Attention, Hierarchical Design
-- **Link:** [Paper Link](https://github.com/NVlabs/MambaVision)
+- **Link:** [Link](https://github.com/NVlabs/MambaVision)
 
 ### Hierarchical Gaussian Mixture Model Splatting for Efficient and Part Controllable 3D Generation
 - **Tags:** 3DGS (Gaussian Splatting), 3D Generation, Hierarchical Gaussian Mixture Model, Mamba with Tree Topology, Cascaded Diffusion Framework
@@ -10400,7 +10400,7 @@
 
 ### LC-Mamba: Local and Continuous Mamba with Shifted Windows for Frame Interpolation
 - **Tags:** Mamba, Video Understanding, Frame Interpolation, Shifted Local Window, Hilbert Curve, Voxel-Level Scanning
-- **Link:** [Paper Link](https://anonymous.4open.science/r/LC-Mamba-FE7C)
+- **Link:** [Link](https://anonymous.4open.science/r/LC-Mamba-FE7C)
 
 ### Exploiting Temporal State Space Sharing for Video Semantic Segmentation
 - **Tags:** Video Semantic Segmentation, Mamba, Temporal Modeling, Selective Gating Mechanism, Parallel Computation, Long-Range Temporal Coherence
@@ -10410,7 +10410,7 @@
 
 ### OccMamba: Semantic Occupancy Prediction with State Space Models
 - **Tags:** 3D Semantic Segmentation, Mamba, Hierarchical Mamba Module, 3D-to-1D Reordering, Height-Prioritized 2D Hilbert Expansion
-- **Link:** [Paper Link](https://github.com/USTCLH/OccMamba)
+- **Link:** [Link](https://github.com/USTCLH/OccMamba)
 
 ### LMO: Linear Mamba Operator for MRI Reconstruction
 - **Tags:** Mamba, Medical Image Analysis, MRI Reconstruction, State Space Model, Continuous-Discrete Equivalence, Generalization in MRI
@@ -10484,7 +10484,7 @@
 
 ### OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection
 - **Tags:** Medical Image Analysis, Anomaly Detection, Out-of-Distribution Detection, Healthcare AI, Benchmarking
-- **Link:** [Paper Link](https://github.com/xxxx/xxx)
+- **Link:** [Link](https://github.com/xxxx/xxx)
 
 ### AeSPa : Attention-guided Self-supervised Parallel imaging for MRI  Reconstruction
 - **Tags:** Self-Supervised Learning, Medical Image Analysis, k-space Reconstruction, Attention Mechanism, Sensitivity Map Estimation
@@ -10506,7 +10506,7 @@
 
 ### FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification
 - **Tags:** Few-shot Learning, Medical Image Analysis, Pathology Foundation Models, Language Prior Knowledge, Visual Token Filtering
-- **Link:** [Paper Link](https://github.com/dddavid4real/FOCUS)
+- **Link:** [Link](https://github.com/dddavid4real/FOCUS)
 
 ### Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning
 - **Tags:** Medical Image Analysis, Multi-Instance Learning, Attention Mechanisms, Chebyshev Polynomials, Kolmogorov-Arnold Classifier
@@ -10543,7 +10543,7 @@
 
 ### Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation
 - **Tags:** Multimodal Learning, Medical Image Analysis, Contrastive Learning, Longitudinal Data, Tokenized Absence Encoding
-- **Link:** [Paper Link](https://github.com/mk-runner/MLRG)
+- **Link:** [Link](https://github.com/mk-runner/MLRG)
 
 ### MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification
 - **Tags:** Diffusion Models, Medical Image Analysis, Mixture-of-Experts (MoE), Generative Strategy, Feature Aggregation
@@ -10617,7 +10617,7 @@
 
 ### Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline
 - **Tags:** Medical Image Segmentation, Datasets and Benchmarks, Interactive Segmentation, Vision Foundational Model, Dense Annotation
-- **Link:** [Paper Link](https://anonymous.4open.science/r/IMIS-Bench-FF8B)
+- **Link:** [Link](https://anonymous.4open.science/r/IMIS-Bench-FF8B)
 
 ### Prototype-Based Image Prompting for Weakly Supervised Histopathological Image Segmentation
 - **Tags:** Weakly Supervised Learning, Medical Image Segmentation, Prototype-Based Learning, Contrastive Learning, Class Activation Maps (CAMs), Image-Level Labels, Histopathological Image Analysis
@@ -10639,11 +10639,11 @@
 
 ### nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark
 - **Tags:** Semantic Segmentation, Medical Image Segmentation, Transformers, nnUNet, Multi-scale Fusion
-- **Link:** [Paper Link](https://github.com/XXX)
+- **Link:** [Link](https://github.com/XXX)
 
 ### EchoONE: Segmenting Multiple echocardiography Planes in One Model
 - **Tags:** Medical Image Segmentation, Multimodal Learning, SAM-based architecture, PC-Mask module, LFFA module
-- **Link:** [Paper Link](https://github.com/a2503/EchoONE)
+- **Link:** [Link](https://github.com/a2503/EchoONE)
 
 ### CSC-PA: Cross-image Semantic Correlation via Prototype Attentions for Single-network Semi-supervised Breast Tumor Segmentation
 - **Tags:** Semantic Segmentation, Medical Image Segmentation, Self-Supervised Learning, Prototype Attention, Pixel Affinity Loss, Cross-image Semantic Correlation
@@ -10677,7 +10677,7 @@
 
 ### SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation
 - **Tags:** Medical Image Segmentation, 3D Semantic Segmentation, Lightweight Networks, Parameter Aggregation, MRI Segmentation
-- **Link:** [Paper Link](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet)
+- **Link:** [Link](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet)
 
 ### Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation
 - **Tags:** Medical Image Segmentation, Diffusion Models, Noise Consistency Loss, Siamese-Diffusion, Morphological Fidelity
@@ -10769,7 +10769,7 @@
 
 ### Enhancing Diversity for Data-free Quantization
 - **Tags:** Model Pruning, Data Augmentation, Quantization, Mode Collapse, Feature Diversity
-- **Link:** [Paper Link](https://anonymous.4open.science/r/DFQ-84E6)
+- **Link:** [Link](https://anonymous.4open.science/r/DFQ-84E6)
 
 ### DeepCompress-ViT: Rethinking Model Compression to Enhance Efficiency of Vision Transformers at the Edge
 - **Tags:** Vision Transformer (ViT), Model Pruning, Unified Compression Training (UCT), Edge Computing, Matrix Multiplication Optimization
@@ -10934,7 +10934,7 @@
 
 ### STEP: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training
 - **Tags:** Video Understanding, Multimodal Large Language Models (MLLMs), Spatio-Temporal Scene Graphs, Chain-of-Thought Rationales, Self-Training
-- **Link:** [Paper Link](https://anonymous.4open.science/r/STEP-FE2C/)
+- **Link:** [Link](https://anonymous.4open.science/r/STEP-FE2C/)
 
 ### Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - **Tags:** Multimodal Large Language Models (MLLMs), Video Understanding, Benchmarking, Multi-modal Data Integration, Video Duration Analysis
@@ -11001,7 +11001,7 @@
 
 ### Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval
 - **Tags:** Zero-Shot Learning, Multimodal Large Language Models (MLLMs), Reflective Chain-of-Thought, Training-Free Methods, Vision-Language Applications
-- **Link:** [Paper Link](https://github.com/Pter61/osrcir2024)
+- **Link:** [Link](https://github.com/Pter61/osrcir2024)
 
 ### Docopilot: Improving Multimodal Models for Document-Level Understanding
 - **Tags:** Multimodal Large Language Models (MLLMs), Datasets and Benchmarks, Document-Level Understanding, Native Multimodal Model, Cross-Page Dependencies
@@ -11107,7 +11107,7 @@
 
 ### Yo’Chameleon: Personalized Vision and Language Generation
 - **Tags:** Multimodal Large Language Models (MLLMs), Image Generation, Soft-Prompt Tuning, Few-Shot Learning, Personalized Multimodal Models
-- **Link:** [Paper Link](https://thaoshibe.github.io/YoChameleon)
+- **Link:** [Link](https://thaoshibe.github.io/YoChameleon)
 
 ### UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation
 - **Tags:** Multimodal Large Language Models (MLLMs), Visual Question Answering (VQA), Unsupervised Learning, Peer Review Mechanism, Vision-Language Scoring
@@ -11162,7 +11162,7 @@
 
 ### Mimic In-Context Learning for Multimodal Tasks
 - **Tags:** Multimodal Large Language Models (MLLMs), In-Context Learning, Transformer-based Models, Shift Vector Learning, Multimodal Task Enhancement
-- **Link:** [Paper Link](https://anonymous.4open.science/r/MimIC/)
+- **Link:** [Link](https://anonymous.4open.science/r/MimIC/)
 
 ### RoboBrain: A Unified  Brain Model for Robotic Manipulation from Abstract to Concrete
 - **Tags:** Multimodal Large Language Models (MLLMs), Robotic Manipulation, Task Planning, Affordance Perception, Trajectory Prediction
@@ -11235,7 +11235,7 @@
 
 ### Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning
 - **Tags:** Multimodal Large Language Models (MLLMs), Egocentric Instruction Tuning, Orientation Understanding, Egocentric Viewpoint, Benchmark Evaluation
-- **Link:** [Paper Link](https://anonymous.4open.science/r/EgocentricInstructionTuning-E189)
+- **Link:** [Link](https://anonymous.4open.science/r/EgocentricInstructionTuning-E189)
 
 ### Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models
 - **Tags:** Multimodal Large Language Models (MLLMs), Weakly-supervised Temporal Action Localization (WTAL), Key Semantic Matching (KSM), Complete Semantic Reconstruction (CSR), Video Understanding
@@ -11293,11 +11293,11 @@
 
 ### FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression
 - **Tags:** Multimodal Large Language Models (MLLMs), Visual Compression, Efficient MLLMs, Visual Token Compression, Instruction-Aware Visual Encoding
-- **Link:** [Paper Link](https://anonymous.4open.science/r/FlashSloth/)
+- **Link:** [Link](https://anonymous.4open.science/r/FlashSloth/)
 
 ### V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents
 - **Tags:** Video Generation, Multimodal Large Language Models (MLLMs), Video-to-Shot Prompting, Tree-of-Thought Searching, Multi-Round Self-Reflection
-- **Link:** [Paper Link](https://zhengrongyue.github.io/v-stylist.github.io/)
+- **Link:** [Link](https://zhengrongyue.github.io/v-stylist.github.io/)
 
 ### StarVector: Generating Scalable Vector Graphics Code from Images and Text
 - **Tags:** Multimodal Large Language Models (MLLMs), Image Generation, SVG Generation, Semantic Understanding, Vector Graphics Benchmarking
@@ -11316,7 +11316,7 @@
 
 ### RelationField: Relate Anything in Radiance Fields
 - **Tags:** NeRF (Neural Radiance Fields), Multimodal Large Language Models (MLLMs), 3D Scene Graph Generation, Open-Vocabulary Learning, Implicit Relationship Queries
-- **Link:** [Paper Link](https://relationfield.github.io/)
+- **Link:** [Link](https://relationfield.github.io/)
 
 ### Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models
 - **Tags:** Zero-Shot Learning, Anomaly Detection, Multimodal Large Language Models (MLLMs), Look-Twice Feature Matching (LTFM), Visual Instruction Tuning, Specialist Visual Assistant
@@ -11402,7 +11402,7 @@
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Multimodal Learning, Depth Estimation, Knowledge Distillation, Real-Time Processing
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows
 - **Tags:** Diffusion Models, Multimodal Learning, Any-to-Any Generation, Rectified Flow Framework, Modality Alignment
@@ -11463,7 +11463,7 @@
 
 ### PromptHash:Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval
 - **Tags:** Cross-Modal Hashing, Multimodal Learning, Affinity Prompt Learning, Hierarchical Contrastive Learning, Adaptive Gated Fusion
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PromptHash-8ED3)
+- **Link:** [Link](https://anonymous.4open.science/r/PromptHash-8ED3)
 
 ### ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation
 - **Tags:** Image Generation, Multimodal Learning, Anonymous Region Layout, Layer-wise Region Crop, Transparency Autoencoder
@@ -11590,7 +11590,7 @@
 
 ### EchoONE: Segmenting Multiple echocardiography Planes in One Model
 - **Tags:** Medical Image Segmentation, Multimodal Learning, SAM-based architecture, PC-Mask module, LFFA module
-- **Link:** [Paper Link](https://github.com/a2503/EchoONE)
+- **Link:** [Link](https://github.com/a2503/EchoONE)
 
 ### LaTexBlend: Scaling Multi-concept Customized Generation with Latent Textual Blending
 - **Tags:** Text-to-Image Generation, Multimodal Learning, Latent Textual Space, Concept Bank, Denoising Deviation Reduction
@@ -11639,14 +11639,14 @@
 
 ### Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - **Tags:** Multimodal Learning, Video-to-Audio Synthesis, Flow Matching, Conditional Synchronization, Low-Parameter Model
-- **Link:** [Paper Link](https://hkchengrex.com/MMAudio/)
+- **Link:** [Link](https://hkchengrex.com/MMAudio/)
 
 ### All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages
 - **Tags:** Multimodal Large Language Models (MLLMs), Multimodal Learning, Cultural Diversity, Low-Resource Languages, Multimodal Benchmarking
 
 ### LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living
 - **Tags:** Vision-Language Models (VLMs), Multimodal Learning, Human-Object Interaction (HOI), Curriculum Learning, 3D Skeletons
-- **Link:** [Paper Link](https://llavidal.github.io/llavidal/)
+- **Link:** [Link](https://llavidal.github.io/llavidal/)
 
 ### Animate and Sound an Image
 - **Tags:** Diffusion Models, Video Generation, Multimodal Learning, Diffusion Transformer (DiT), Classifier-Free Guidance, Synchronized Video-Audio Generation
@@ -11668,7 +11668,7 @@
 
 ### HD-EPIC: A Highly-Detailed Egocentric Video Dataset
 - **Tags:** Egocentric Video, Multimodal Learning, Datasets and Benchmarks, 3D Digital Twinning, Fine-Grained Action Recognition, Audio-Visual Annotation
-- **Link:** [Paper Link](https://hd-epic.github.io/)
+- **Link:** [Link](https://hd-epic.github.io/)
 
 ### MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures
 - **Tags:** Multimodal Learning, Optical Character Recognition (OCR), Chemical Structure Recognition, Synthetic Data Generation, Sequential Graph Representation
@@ -11696,7 +11696,7 @@
 
 ### DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection
 - **Tags:** Multimodal Learning, Anomaly Detection, Dynamic Prototype Updating, Intra-Class Variability, Multimodal Robustness
-- **Link:** [Paper Link](https://anonymous.4open.science/r/CVPR-9177)
+- **Link:** [Link](https://anonymous.4open.science/r/CVPR-9177)
 
 ### Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning
 - **Tags:** Multimodal Learning, Video Understanding, Contrastive Learning, Feature Augmentation, Cross-View Benchmark
@@ -11706,7 +11706,7 @@
 
 ### ReCon: Enhancing True Correspondence Discrimination through Relation Consistency for Robust Noisy Correspondence Learning
 - **Tags:** Multimodal Learning, Noisy Correspondence Learning, Relation Consistency, Dual-Alignment, Noisy Data Filtering
-- **Link:** [Paper Link](https://anonymous.4open.science/r/ReCon-NCL)
+- **Link:** [Link](https://anonymous.4open.science/r/ReCon-NCL)
 
 ### DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering
 - **Tags:** 3D Question Answering, Multimodal Learning, Text-guided Multi-view Fusion, Adaptive Dual-vision Perception, Multimodal Context-guided Reasoning
@@ -11791,14 +11791,14 @@
 
 ### Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation
 - **Tags:** Multimodal Learning, Medical Image Analysis, Contrastive Learning, Longitudinal Data, Tokenized Absence Encoding
-- **Link:** [Paper Link](https://github.com/mk-runner/MLRG)
+- **Link:** [Link](https://github.com/mk-runner/MLRG)
 
 ### HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery
 - **Tags:** Remote Sensing Image Analysis, Multimodal Learning, Visual Prompt Engineering, Semantic-aware Mask Generation, Dynamic Embedding Layer
 
 ### ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions
 - **Tags:** Video Generation, Multimodal Learning, Instructional Video Processing, Scene-Conditioned Generation, Video Diffusion Models
-- **Link:** [Paper Link](https://soczech.github.io/showhowto/)
+- **Link:** [Link](https://soczech.github.io/showhowto/)
 
 ### DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles
 - **Tags:** Multimodal Learning, Generative Adversarial Networks (GANs), Unpaired Data Training, Cross-Modal Adaptation, Self-Evolution
@@ -11892,11 +11892,11 @@
 
 ### Complementary Advantages:  Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising
 - **Tags:** Low-Level Vision, Denoising, Multimodal Learning, Frequency Domain Analysis, Image Fusion, Cross-Modal Denoising
-- **Link:** [Paper Link](https://github.com/11679-hub/11679)
+- **Link:** [Link](https://github.com/11679-hub/11679)
 
 ### HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization
 - **Tags:** Multimodal Learning, Video Understanding, Video-Music Alignment, Temporal Synchronization, Cultural Relevance
-- **Link:** [Paper Link](https://harmonyset.github.io/)
+- **Link:** [Link](https://harmonyset.github.io/)
 
 ### GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery
 - **Tags:** CLIP, Multimodal Learning, Generalized Category Discovery, Text Embedding Synthesizer, Dual-Branch Framework, Vision-Language Alignment
@@ -11984,7 +11984,7 @@
 
 ### Sound Bridge: Association Egocentric and Exocentric Videos via Audio Cues
 - **Tags:** Egocentric Video, Exocentric Video, Audio-Visual Alignment, Multimodal Learning, Visual-Audio Cross-Attention, Sound Closed Captions, Action Recognition
-- **Link:** [Paper Link](https://github.com/openuponacceptance)
+- **Link:** [Link](https://github.com/openuponacceptance)
 
 ### MINIMA: Modality Invariant Image Matching
 - **Tags:** Image Matching, Multimodal Learning, Data Scaling-Up, Generative Modules, Zero-Shot Generalization
@@ -12157,7 +12157,7 @@
 
 ### Accurate Differential Operators for Hybrid Neural Fields
 - **Tags:** Neural Radiance Fields (NeRF), 3D Reconstruction, Spatial Derivatives, Self-Supervised Fine-Tuning, Local Polynomial Fitting
-- **Link:** [Paper Link](https://justachetan.github.io/hnf-derivatives/)
+- **Link:** [Link](https://justachetan.github.io/hnf-derivatives/)
 
 ### Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations
 - **Tags:** NeRF (Neural Radiance Fields), 3D Reconstruction, Depth Estimation, Novel View Synthesis, Unified Neural Representation, Dense Optical Flow Estimation, Feature Enhancement Mechanism
@@ -12218,14 +12218,14 @@
 
 ### RelationField: Relate Anything in Radiance Fields
 - **Tags:** NeRF (Neural Radiance Fields), Multimodal Large Language Models (MLLMs), 3D Scene Graph Generation, Open-Vocabulary Learning, Implicit Relationship Queries
-- **Link:** [Paper Link](https://relationfield.github.io/)
+- **Link:** [Link](https://relationfield.github.io/)
 
 ### NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics
 - **Tags:** NeRF (Neural Radiance Fields), 3D Reconstruction, Polarized Inverse Rendering, pBRDF, DoLP Images
 
 ### MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
 - **Tags:** 3D Reconstruction, Autonomous Driving, NeRF (Neural Radiance Fields), Datasets and Benchmarks, Distributed SLAM, Peer-to-Peer Communication, Intra-to-Inter Loop Closure
-- **Link:** [Paper Link](https://anonymous.4open.science/w/ins-BD50/)
+- **Link:** [Link](https://anonymous.4open.science/w/ins-BD50/)
 
 </details>
 
@@ -12342,7 +12342,7 @@
 
 ### CoMapGS: Covisiblility Map-based Gaussian Splatting for Sparse Novel View Synthesis
 - **Tags:** 3DGS (Gaussian Splatting), Novel View Synthesis, Covisibility Maps, Uncertainty-Aware Supervision, Point Cloud Enhancement
-- **Link:** [Paper Link](https://youngkyoonjang.github.io/projects/comapgs/)
+- **Link:** [Link](https://youngkyoonjang.github.io/projects/comapgs/)
 
 ### MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction
 - **Tags:** 3D Reconstruction, Novel View Synthesis, Instance Alignment, Uncertainty Estimation, Density Measure
@@ -12494,7 +12494,7 @@
 
 ### Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection
 - **Tags:** Object Detection, Low-Level Vision, Infrared Image Processing, Self-Supervised Learning, End-to-End Framework
-- **Link:** [Paper Link](https://github.com/anonymous2025submit/UniCD)
+- **Link:** [Link](https://github.com/anonymous2025submit/UniCD)
 
 ### MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors
 - **Tags:** 3D Object Detection, Transformer, Depth Estimation, Perspective-Invariant Geometry, Region Segmentation Head
@@ -12507,7 +12507,7 @@
 
 ### OW-OVD: Unified Open World and Open Vocabulary Object Detection
 - **Tags:** Object Detection, Open World Object Detection (OWOD), Open Vocabulary Object Detection (OVD), Zero-Shot Generalization, Incremental Learning, Hybrid Attribute-Uncertainty Fusion
-- **Link:** [Paper Link](https://anonymous.4open.science/r/OW_OVD-E336)
+- **Link:** [Link](https://anonymous.4open.science/r/OW_OVD-E336)
 
 ### Open-World Objectness Modeling Unifies Novel Object Detection
 - **Tags:** Object Detection, Zero-Shot Learning, Energy-Based Loss, Variational Approximation, Dynamic Gaussian Prior
@@ -12580,7 +12580,7 @@
 
 ### FASTer: Focal token Acquiring-and-Scaling Transformer for Long-term 3D Objection Detection.
 - **Tags:** 3D Object Detection, Transformers, Adaptive Scaling, Grouped Hierarchical Fusion, Temporal Sequences
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances
 - **Tags:** Object Detection, Weakly-Supervised Learning, Gaussian Overlap Loss, Voronoi Watershed Loss, Consistency Loss
@@ -12704,7 +12704,7 @@
 
 ### Feature Information Driven Position Gaussian Distribution Estimation for Tiny Object Detection
 - **Tags:** Object Detection, Tiny Object Detection, Information Entropy, Gaussian Mixture Distribution, Information Map, Position Gaussian Distribution Map, Multi-scale Prediction
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Information_TOD-19F1)
+- **Link:** [Link](https://anonymous.4open.science/r/Information_TOD-19F1)
 
 ### Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval
 - **Tags:** Object Detection, Long-Tail Learning, Web-Image Retrieval, Training-Free Framework, Open-Vocabulary Detection
@@ -12774,7 +12774,7 @@
 
 ### 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
 - **Tags:** Vision-Language Models (VLMs), Object Detection, Semantic Segmentation, Adapter-based Tuning, Scaled Layernorm, Vision-Friendly Filters
-- **Link:** [Paper Link](https://github.com/Leiyi-Hu/mona)
+- **Link:** [Link](https://github.com/Leiyi-Hu/mona)
 
 ### HORP: Human-Object Relation Priors Guided HOI Detection
 - **Tags:** Human-Object Interaction (HOI), Object Detection, Multimodal Learning, 3D Location Prior, Gaze Area Prior, No-Interaction Recognition
@@ -12793,7 +12793,7 @@
 
 ### Saliuitl: Ensemble Salience Guided Recovery of Adversarial Patches against CNNs
 - **Tags:** Adversarial Attacks, Object Detection, Image Classification, Adversarial Patch Detection, Ensemble Saliency Thresholds, Inpainting for Recovery
-- **Link:** [Paper Link](https://github.com/Saliuitl/Saliuitl/tree/main)
+- **Link:** [Link](https://github.com/Saliuitl/Saliuitl/tree/main)
 
 ### Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
 - **Tags:** Object Detection, Spiking Neural Networks (SNNs), Attention Mechanisms, Neuromorphic Hardware, Hybrid Neural Networks, Multi-Timescale Processing, Event Cameras
@@ -12815,7 +12815,7 @@
 
 ### Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens
 - **Tags:** Vision-Language Models (VLMs), Object Detection, Attention Mechanisms, Attention Patterns, Inference-Time Optimization, Visual Information Processing
-- **Link:** [Paper Link](https://anonymous.4open.science/r/middlelayersindicating_hallucinations-C45A)
+- **Link:** [Link](https://anonymous.4open.science/r/middlelayersindicating_hallucinations-C45A)
 
 ### Learning Class Prototype for Unified Sparse Supervised 3D Object Detection
 - **Tags:** 3D Object Detection, Sparse Supervised Learning, Class Prototype Learning, Optimal Transport Matching, Pseudo Label Refinement
@@ -12986,7 +12986,7 @@
 
 ### Semantic and Sequential Alignment for Referring Video Object Segmentation
 - **Tags:** Referring Image Segmentation, Vision-Language Models (VLMs), Semantic Segmentation, Trajectory-to-Instance Enhancement, Semantic Gap Bridging, Low Computational Cost
-- **Link:** [Paper Link](https://github.com/anonymous61888/SSA)
+- **Link:** [Link](https://github.com/anonymous61888/SSA)
 
 ### Exploring Contextual Attribute Density in Referring Expression Counting
 - **Tags:** Referring Image Segmentation, Object Detection, Contextual Attribute Density, U-shape CAD Estimator, Attention Mechanism
@@ -13130,7 +13130,7 @@
 
 ### RelationField: Relate Anything in Radiance Fields
 - **Tags:** NeRF (Neural Radiance Fields), Multimodal Large Language Models (MLLMs), 3D Scene Graph Generation, Open-Vocabulary Learning, Implicit Relationship Queries
-- **Link:** [Paper Link](https://relationfield.github.io/)
+- **Link:** [Link](https://relationfield.github.io/)
 
 </details>
 
@@ -13147,7 +13147,7 @@
 
 ### ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices
 - **Tags:** Large Language Models (LLMs), Self-Supervised Learning, Positional Encoding, Attention Mechanism, Trainable Matrices
-- **Link:** [Paper Link](https://anonymous.4open.science/r/ComRoPE-08AA)
+- **Link:** [Link](https://anonymous.4open.science/r/ComRoPE-08AA)
 
 ### Improving Semi-Supervised Semantic Segmentation with Sliced-Wasserstein Feature Alignment and Uniformity
 - **Tags:** Semantic Segmentation, Self-Supervised Learning, Sliced-Wasserstein Distance, Feature Alignment, Uniformity Optimization
@@ -13193,7 +13193,7 @@
 
 ### Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection
 - **Tags:** Object Detection, Low-Level Vision, Infrared Image Processing, Self-Supervised Learning, End-to-End Framework
-- **Link:** [Paper Link](https://github.com/anonymous2025submit/UniCD)
+- **Link:** [Link](https://github.com/anonymous2025submit/UniCD)
 
 ### ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning
 - **Tags:** CLIP, Self-Supervised Learning, Few-Shot Learning, Text-to-Image Generation, Chain-of-Thought Learning, In-Context Learning
@@ -13266,7 +13266,7 @@
 
 ### Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior
 - **Tags:** Vision-Language Models (VLMs), Self-Supervised Learning, Uncertainty Estimation, Brain Signal Processing, Zero-Shot Retrieval
-- **Link:** [Paper Link](https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior)
+- **Link:** [Link](https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior)
 
 ### Segment Any Motion in Videos
 - **Tags:** Video Object Segmentation, Self-Supervised Learning, Semantic Segmentation, Trajectory Attention, Motion-Semantic Decoupling, Iterative Prompting
@@ -13390,7 +13390,7 @@
 
 ### CleanDIFT: Diffusion Features without Noise
 - **Tags:** Diffusion Models, Self-Supervised Learning, Noise-Free Features, Unsupervised Fine-Tuning, Semantic Descriptors
-- **Link:** [Paper Link](https://compvis.github.io/cleandift/)
+- **Link:** [Link](https://compvis.github.io/cleandift/)
 
 ### SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2\% Training Cost
 - **Tags:** Video Object Segmentation, Self-Supervised Learning, Memory-as-Prompt Mechanism, Memory Filtering Mechanism, Resource-Efficient Training
@@ -13442,7 +13442,7 @@
 
 ### Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations
 - **Tags:** Video Understanding, Self-Supervised Learning, Masked Modeling, Cross-View Alignment, Egocentric Video Analysis
-- **Link:** [Paper Link](https://anonymous.4open.science/r/byov-D967)
+- **Link:** [Link](https://anonymous.4open.science/r/byov-D967)
 
 ### Learning a Visual Lexicon from Diffusion Models
 - **Tags:** Diffusion Models, Self-Supervised Learning, Vision-Language Models (VLMs), Text-to-Image Generation, Zero-Shot Learning, High-Fidelity Reconstruction
@@ -13647,7 +13647,7 @@
 
 ### LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions
 - **Tags:** Vision Transformer (ViT), Self-Supervised Learning, Gradient Flow Balancing, Attribution Faithfulness, Post-hoc Explanation Methods
-- **Link:** [Paper Link](https://nightmachinery.github.io/LibraGrad/)
+- **Link:** [Link](https://nightmachinery.github.io/LibraGrad/)
 
 ### Open Ad-hoc Categorization with Contextualized Feature Learning
 - **Tags:** CLIP, Self-Supervised Learning, Contextualized Feature Learning, Ad-hoc Categorization, Interpretable Saliency Maps
@@ -13672,7 +13672,7 @@
 
 ### Positive2Negative: Breaking the Information-Lossy Barrier in Self-Supervised Single Image Denoising
 - **Tags:** Self-Supervised Learning, Denoising, Renoised Data Construction, Denoised Consistency Supervision, Single Image Denoising
-- **Link:** [Paper Link](https://anonymous.4open.science/r/P2N-4C8E)
+- **Link:** [Link](https://anonymous.4open.science/r/P2N-4C8E)
 
 ### A Unified Approach to Interpreting Self-supervised Pre-training Methods for 3D Point Clouds via Interactions
 - **Tags:** Self-Supervised Learning, 3D Point Cloud, Game-Theoretic Interactions, Feature Transferability, High-Order Interactions
@@ -13694,7 +13694,7 @@
 
 ### Let Samples Speak:  Mitigating Spurious Correlation by Exploiting the Clusterness of Samples
 - **Tags:** Self-Supervised Learning, Data Augmentation, Feature Transformation, Bias-Invariant Representation, Worst-Group Accuracy
-- **Link:** [Paper Link](https://davelee-uestc.github.io/nsf_cvpr25)
+- **Link:** [Link](https://davelee-uestc.github.io/nsf_cvpr25)
 
 ### Masked Scene Modeling: Supervised-Level Performance with Self-Supervised Learning in 3D Scene Understanding
 - **Tags:** Self-Supervised Learning, 3D Scene Understanding, Masked Scene Modeling, Linear Probing, Hierarchical 3D Models
@@ -13734,7 +13734,7 @@
 
 ### FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning
 - **Tags:** Self-Supervised Learning, Face Security, Masked Image Modeling, Instance Discrimination, Facial Representation Learning
-- **Link:** [Paper Link](https://fsfm-3c.github.io/)
+- **Link:** [Link](https://fsfm-3c.github.io/)
 
 ### Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection
 - **Tags:** Anomaly Detection, Self-Supervised Learning, Gaussian Prototypes, Schrödinger Bridge, Hyperspherical Space
@@ -13747,7 +13747,7 @@
 
 ### ZoomLDM: Latent Diffusion Model for multi-scale image generation
 - **Tags:** Diffusion Models, Image Generation, Self-Supervised Learning, Multi-Scale Image Generation, Magnification-Aware Conditioning, Multi-Scale Features, Large Image Synthesis
-- **Link:** [Paper Link](https://histodiffusion.github.io/docs/publications/zoomldm/)
+- **Link:** [Link](https://histodiffusion.github.io/docs/publications/zoomldm/)
 
 ### Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning
 - **Tags:** Deepfake Detection, Unsupervised Learning, Self-Supervised Learning, Dataset Bias, Audio-Video Representation
@@ -13800,7 +13800,7 @@
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Multimodal Learning, Depth Estimation, Knowledge Distillation, Real-Time Processing
-- **Link:** [Paper Link](https://github.com/)
+- **Link:** [Link](https://github.com/)
 
 ### DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning
 - **Tags:** Semantic Segmentation, Instance Segmentation, Document Image Analysis, Transformer-based Framework, Query Decomposition, Heterogeneous Mixed Learning
@@ -13906,7 +13906,7 @@
 
 ### nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark
 - **Tags:** Semantic Segmentation, Medical Image Segmentation, Transformers, nnUNet, Multi-scale Fusion
-- **Link:** [Paper Link](https://github.com/XXX)
+- **Link:** [Link](https://github.com/XXX)
 
 ### CSC-PA: Cross-image Semantic Correlation via Prototype Attentions for Single-network Semi-supervised Breast Tumor Segmentation
 - **Tags:** Semantic Segmentation, Medical Image Segmentation, Self-Supervised Learning, Prototype Attention, Pixel Affinity Loss, Cross-image Semantic Correlation
@@ -13967,7 +13967,7 @@
 
 ### Semantic and Sequential Alignment for Referring Video Object Segmentation
 - **Tags:** Referring Image Segmentation, Vision-Language Models (VLMs), Semantic Segmentation, Trajectory-to-Instance Enhancement, Semantic Gap Bridging, Low Computational Cost
-- **Link:** [Paper Link](https://github.com/anonymous61888/SSA)
+- **Link:** [Link](https://github.com/anonymous61888/SSA)
 
 ### HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving
 - **Tags:** 3D Semantic Segmentation, Autonomous Driving, Semi-Supervised Learning, Temporal Representation Learning, Cross-Attention Mechanism, Teacher-Student Framework
@@ -14010,7 +14010,7 @@
 
 ### Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater
 - **Tags:** Semantic Segmentation, Deep Reinforcement Learning (DRL), Plug-and-Play PPO, Heterogeneous Graph Optimization, Prompt Optimization, Feature-Matching
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PPO-WISH)
+- **Link:** [Link](https://anonymous.4open.science/r/PPO-WISH)
 
 ### Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation
 - **Tags:** CLIP, Semantic Segmentation, Parameter-efficient Fine-tuning, Hyperspherical Space, Dual Cross-relation Communication
@@ -14047,7 +14047,7 @@
 
 ### SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation
 - **Tags:** Medical Image Segmentation, 3D Semantic Segmentation, Lightweight Networks, Parameter Aggregation, MRI Segmentation
-- **Link:** [Paper Link](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet)
+- **Link:** [Link](https://github.com/WTU1020-Medical-Segmentation/SuperLightNet)
 
 ### Insightful Instance Features for 3D Instance Segmentation
 - **Tags:** 3D Semantic Segmentation, 3D Reconstruction, Instance-wise Knowledge Aggregation, Truncated Singular Value Decomposition, Ambiguity-Reduced Features
@@ -14126,14 +14126,14 @@
 
 ### 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
 - **Tags:** Vision-Language Models (VLMs), Object Detection, Semantic Segmentation, Adapter-based Tuning, Scaled Layernorm, Vision-Friendly Filters
-- **Link:** [Paper Link](https://github.com/Leiyi-Hu/mona)
+- **Link:** [Link](https://github.com/Leiyi-Hu/mona)
 
 ### LiMoE: Mixture of LiDAR Representation Learners from Automotive Scenes
 - **Tags:** 3D Point Cloud, 3D Semantic Segmentation, Mixture of Experts, Contrastive Learning, Semantic Supervision
 
 ### OccMamba: Semantic Occupancy Prediction with State Space Models
 - **Tags:** 3D Semantic Segmentation, Mamba, Hierarchical Mamba Module, 3D-to-1D Reordering, Height-Prioritized 2D Hilbert Expansion
-- **Link:** [Paper Link](https://github.com/USTCLH/OccMamba)
+- **Link:** [Link](https://github.com/USTCLH/OccMamba)
 
 ### Towards Continual Universal Segmentation
 - **Tags:** Semantic Segmentation, Continual Learning, Understanding-then-Refinement Paradigm, High-Level Semantic Understanding, Low-Level Vision Cues
@@ -14345,7 +14345,7 @@
 
 ### S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting
 - **Tags:** 3DGS (Gaussian Splatting), 3D Reconstruction, Super-Resolution, Depth Regularization, Gaussian Shuffle, Blur-Free Inconsistency Modeling
-- **Link:** [Paper Link](https://jeasco.github.io/S2Gaussian/)
+- **Link:** [Link](https://jeasco.github.io/S2Gaussian/)
 
 ### Auto-Enocded Supervision for Perceptual Image Super-Resolution
 - **Tags:** Super-Resolution, Generative Adversarial Networks (GANs), Auto-Encoder, Loss Function Design, Perceptual Quality
@@ -14400,7 +14400,7 @@
 
 ### Bias for Action: Video Implicit Neural Representations with Bias Modulation
 - **Tags:** Implicit Neural Representations, Video Processing, Bias Modulation, Video Slow Motion, Spatial Super-Resolution
-- **Link:** [Paper Link](https://alpoler.github.io/actioner)
+- **Link:** [Link](https://alpoler.github.io/actioner)
 
 ### Adversarial Diffusion Compression for Real-World Image Super-Resolution
 - **Tags:** Super-Resolution, Diffusion Models, Adversarial Distillation, Model Compression, GAN Hybrid Design
@@ -14589,7 +14589,7 @@
 
 ### Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions
 - **Tags:** Text-to-Image Generation, CLIP, Token-Level Directions, Subject-Specific Attribute Control, Prompt Augmentation
-- **Link:** [Paper Link](https://compvis.github.io/attribute-control/)
+- **Link:** [Link](https://compvis.github.io/attribute-control/)
 
 ### Designing Scale-Wise Transformers for Text-to-Image Synthesis
 - **Tags:** Text-to-Image Generation, Vision Transformer (ViT), Non-Autoregressive Models, Classifier-Free Guidance, Sampling Efficiency
@@ -14599,7 +14599,7 @@
 
 ### Curriculum Direct Preference Optimization for Diffusion and Consistency Models
 - **Tags:** Diffusion Models, Text-to-Image Generation, Curriculum Learning, Human Preference Optimization, Text Alignment
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Curriculum-DPO-757F)
+- **Link:** [Link](https://anonymous.4open.science/r/Curriculum-DPO-757F)
 
 ### From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing
 - **Tags:** Text-to-Image Generation, Multimodal Learning, Diagram Generation, Structured Visuals, Diagram Editing
@@ -14720,7 +14720,7 @@
 
 ### Efficient Personalization of Quantized Diffusion Model without Backpropagation
 - **Tags:** Diffusion Models, Text-to-Image Generation, Zeroth-Order Optimization, Subspace Gradient, Partial Uniform Timestep Sampling
-- **Link:** [Paper Link](https://ignoww.github.io/ZOODiP_project/)
+- **Link:** [Link](https://ignoww.github.io/ZOODiP_project/)
 
 ### One Diffusion to Generate Them All
 - **Tags:** Diffusion Models, Image Generation, Image Understanding, Super-Resolution, Text-to-Image Generation, Depth Estimation, Pose Estimation, Open-Vocab Segmentation, Camera Pose Estimation, Unified Diffusion Model, Multi-Task Learning, General-Purpose Diffusion
@@ -14841,7 +14841,7 @@
 
 ### Towards Transformer-Based Aligned Generation with Self-Coherence Guidance
 - **Tags:** Diffusion Models, Text-to-Image Generation, Cross-Attention Optimization, Training-Free Enhancement, Semantic Alignment
-- **Link:** [Paper Link](https://scg-diffusion.github.io/scg-diffusion)
+- **Link:** [Link](https://scg-diffusion.github.io/scg-diffusion)
 
 ### DreamText: High Fidelity Scene Text Synthesis
 - **Tags:** Text-to-Image Generation, Diffusion Models, Character-Level Guidance, Hybrid Optimization, Font Style Adaptation
@@ -14854,7 +14854,7 @@
 
 ### CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework
 - **Tags:** 3D Point Cloud, Text-to-Image Generation, Uncertainty Modeling, Spatial Consolidation, Cardinal Direction Integration
-- **Link:** [Paper Link](https://github.com/anonymous0819/CMMLoc)
+- **Link:** [Link](https://github.com/anonymous0819/CMMLoc)
 
 ### Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization
 - **Tags:** 3DGS (Gaussian Splatting), Text-to-Image Generation, RGBD Diffusion Model, Depth-Guided Cross Attention, Warp ControlNet
@@ -14873,7 +14873,7 @@
 
 ### PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction
 - **Tags:** Text-to-Image Generation, Query Performance Prediction, Human Annotations, Diffusion Models, Performance Prediction
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PQPP-D332)
+- **Link:** [Link](https://anonymous.4open.science/r/PQPP-D332)
 
 ### MotionDiT: Text-Based Human Motion Editing with Motion Similarity Prediction via Diffusion Transformers
 - **Tags:** Diffusion Models, 3D Human Pose Estimation, Text-to-Image Generation, Motion Similarity Prediction, Layer-wise Control Signals, Semantic Understanding
@@ -14932,7 +14932,7 @@
 
 ### VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide
 - **Tags:** Video Generation, Diffusion Models, Temporal Consistency, Prior Distillation, Inference Optimization
-- **Link:** [Paper Link](https://videoguide2025.github.io/)
+- **Link:** [Link](https://videoguide2025.github.io/)
 
 ### VIRES: Video Instance Repainting with Sketch and Text Guidance
 - **Tags:** Video Generation, Diffusion Models, Video Editing, Sequential ControlNet, Sketch Attention, VireSet Dataset
@@ -14948,7 +14948,7 @@
 
 ### WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model
 - **Tags:** Video Generation, Latent Video Diffusion Models (LVDMs), Wavelet Transform, Causal Cache, Low-Frequency Energy Flow, Multi-Level Wavelet Transform
-- **Link:** [Paper Link](https://github.com/PKU-YuanGroup/WF-VAE)
+- **Link:** [Link](https://github.com/PKU-YuanGroup/WF-VAE)
 
 ### AniDoc: Animation Creation Made Easier
 - **Tags:** Video Generation, Diffusion Models, Automated In-Betweening, Correspondence Matching, Character Design Automation
@@ -14967,11 +14967,11 @@
 
 ### Identity-Preserving Text-to-Video Generation by Frequency Decomposition
 - **Tags:** Video Generation, Diffusion Models, Frequency Decomposition, Identity Preservation, Diffusion Transformer
-- **Link:** [Paper Link](https://pku-yuangroup.github.io/ConsisID)
+- **Link:** [Link](https://pku-yuangroup.github.io/ConsisID)
 
 ### Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation
 - **Tags:** Video Generation, Diffusion Models, Point Tracking, Spatial Supervision, Temporal Stability
-- **Link:** [Paper Link](https://anonymous1anonymous2.github.io/)
+- **Link:** [Link](https://anonymous1anonymous2.github.io/)
 
 ### Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset
 - **Tags:** Video Generation, Diffusion Models, Conditional Video Diffusion, Lighting Injection Mechanism, Hybrid Dataset Learning
@@ -15065,7 +15065,7 @@
 
 ### DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes
 - **Tags:** Video Generation, Panoramic Scenes, Offset Shifting Denoiser, Global Motion Guidance, Training-Free Solution
-- **Link:** [Paper Link](https://dynamic-scaler.pages.dev/pre)
+- **Link:** [Link](https://dynamic-scaler.pages.dev/pre)
 
 ### Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts
 - **Tags:** Video Generation, Multimodal Learning, Anchored Prompts, Concept Embeddings, Identity Preservation
@@ -15075,7 +15075,7 @@
 
 ### Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model
 - **Tags:** Video Generation, Human-Object Interaction (HOI), Layout-instructed Diffusion Model, Interactive Textural Enhancement, Cross-Object Reenactment
-- **Link:** [Paper Link](https://fyycs.github.io/Re-HOLD/)
+- **Link:** [Link](https://fyycs.github.io/Re-HOLD/)
 
 ### Navigation World Models
 - **Tags:** Video Generation, Autonomous Driving, Conditional Diffusion Transformer, Visual Priors, Trajectory Planning
@@ -15151,7 +15151,7 @@
 
 ### ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions
 - **Tags:** Video Generation, Multimodal Learning, Instructional Video Processing, Scene-Conditioned Generation, Video Diffusion Models
-- **Link:** [Paper Link](https://soczech.github.io/showhowto/)
+- **Link:** [Link](https://soczech.github.io/showhowto/)
 
 ### T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation
 - **Tags:** Text-to-Image Generation, Video Generation, Multimodal Large Language Models (MLLMs), Compositional Video Generation, Evaluation Metrics, Text Prompts
@@ -15221,7 +15221,7 @@
 
 ### Optical-Flow Guided Prompt Optimization for Coherent Video Generation
 - **Tags:** Video Generation, Diffusion Models, Optical Flow, Temporal Consistency, Learnable Token Embeddings
-- **Link:** [Paper Link](https://motionprompt.github.io/anon7165/)
+- **Link:** [Link](https://motionprompt.github.io/anon7165/)
 
 ### VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models
 - **Tags:** Video Generation, Diffusion Models, LoRA, Spatial-Temporal Composition, Appearance-Agnostic Motion Learning
@@ -15237,7 +15237,7 @@
 
 ### V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents
 - **Tags:** Video Generation, Multimodal Large Language Models (MLLMs), Video-to-Shot Prompting, Tree-of-Thought Searching, Multi-Round Self-Reflection
-- **Link:** [Paper Link](https://zhengrongyue.github.io/v-stylist.github.io/)
+- **Link:** [Link](https://zhengrongyue.github.io/v-stylist.github.io/)
 
 ### AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM
 - **Tags:** Video Generation, Video Quality Assessment, Spatiotemporal Features, Expert Annotations, Text-to-Video Models
@@ -15452,7 +15452,7 @@
 
 ### PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Heterogeneous Graph, Cross-Modal Alignment, Egocentric Video Analysis
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PHGC-7A1B)
+- **Link:** [Link](https://anonymous.4open.science/r/PHGC-7A1B)
 
 ### VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM
 - **Tags:** Video Understanding, Large Language Models (LLMs), Spatial-Temporal Object Understanding, Video Instruction Dataset, Video Referring Benchmarks
@@ -15477,7 +15477,7 @@
 
 ### STEP: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training
 - **Tags:** Video Understanding, Multimodal Large Language Models (MLLMs), Spatio-Temporal Scene Graphs, Chain-of-Thought Rationales, Self-Training
-- **Link:** [Paper Link](https://anonymous.4open.science/r/STEP-FE2C/)
+- **Link:** [Link](https://anonymous.4open.science/r/STEP-FE2C/)
 
 ### Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - **Tags:** Multimodal Large Language Models (MLLMs), Video Understanding, Benchmarking, Multi-modal Data Integration, Video Duration Analysis
@@ -15589,7 +15589,7 @@
 
 ### Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations
 - **Tags:** Video Understanding, Self-Supervised Learning, Masked Modeling, Cross-View Alignment, Egocentric Video Analysis
-- **Link:** [Paper Link](https://anonymous.4open.science/r/byov-D967)
+- **Link:** [Link](https://anonymous.4open.science/r/byov-D967)
 
 ### Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning
 - **Tags:** Multimodal Learning, Video Understanding, Contrastive Learning, Feature Augmentation, Cross-View Benchmark
@@ -15608,7 +15608,7 @@
 
 ### DejaVid: Encoder-Agnostic Learned Temporal Matching for Video Classification
 - **Tags:** Video Understanding, Temporal Modeling, Encoder-Agnostic Learning, Multivariate Time Series, Temporal Feature Weighting, Time Series Alignment
-- **Link:** [Paper Link](https://github.com/cvpr-anon-djv/djv-anon-public)
+- **Link:** [Link](https://github.com/cvpr-anon-djv/djv-anon-public)
 
 ### Learning from Streaming Video with Orthogonal Gradients
 - **Tags:** Self-Supervised Learning, Video Understanding, Orthogonal Gradients, Streaming Video Learning, Optimizer Modification
@@ -15645,7 +15645,7 @@
 
 ### STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Weakly Supervised Learning, Curriculum Learning, Spatio-Temporal Grounding
-- **Link:** [Paper Link](https://aaryangrg.github.io/research/stpro)
+- **Link:** [Link](https://aaryangrg.github.io/research/stpro)
 
 ### Anchor-Aware Similarity Cohesion in Target Frames Enables Predicting Temporal Moment Boundaries in 2D
 - **Tags:** Video Understanding, Vision-Language Models, Temporal Boundary Prediction, Semantic Similarity Space, Anchor Frame Selection
@@ -15715,7 +15715,7 @@
 
 ### PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Data Augmentation, Token Compression, Temporal Redundancy, Unified Processing
-- **Link:** [Paper Link](https://github.com/OpenGVLab/PVC)
+- **Link:** [Link](https://github.com/OpenGVLab/PVC)
 
 ### BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Frame Selection Strategies, Inverse Transform Sampling, Multi-Source Retrieval
@@ -15728,7 +15728,7 @@
 
 ### Generative Omnimatte: Learning to Decompose Video into Layers
 - **Tags:** Video Understanding, Diffusion Models, Video Decomposition, Occlusion Completion, Scene Effects Removal
-- **Link:** [Paper Link](https://gen-omnimatte.github.io/)
+- **Link:** [Link](https://gen-omnimatte.github.io/)
 
 ### Hierarchical Flow Diffusion for Efficient Frame Interpolation
 - **Tags:** Diffusion Models, Video Understanding, Optical Flow, Hierarchical Models, Frame Interpolation
@@ -15750,7 +15750,7 @@
 
 ### LC-Mamba: Local and Continuous Mamba with Shifted Windows for Frame Interpolation
 - **Tags:** Mamba, Video Understanding, Frame Interpolation, Shifted Local Window, Hilbert Curve, Voxel-Level Scanning
-- **Link:** [Paper Link](https://anonymous.4open.science/r/LC-Mamba-FE7C)
+- **Link:** [Link](https://anonymous.4open.science/r/LC-Mamba-FE7C)
 
 ### Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization
 - **Tags:** Image Editing, Diffusion Models, Video Understanding, Temporal Coherence, Lighting Harmonization, Unsupervised Learning
@@ -15763,7 +15763,7 @@
 
 ### HarmonySet: A Comprehensive Dataset for Understanding Video-Music Semantic Alignment and Temporal Synchronization
 - **Tags:** Multimodal Learning, Video Understanding, Video-Music Alignment, Temporal Synchronization, Cultural Relevance
-- **Link:** [Paper Link](https://harmonyset.github.io/)
+- **Link:** [Link](https://harmonyset.github.io/)
 
 ### Temporal Alignment-Free Video Matching for Few-shot Action Recognition
 - **Tags:** Few-shot Action Recognition, Video Understanding, Temporal Alignment-free Matching, Pattern Tokens, Token-wise Comparisons
@@ -15930,7 +15930,7 @@
 
 ### MambaOut: Do We Really Need Mamba for Vision?
 - **Tags:** Mamba, Vision Transformer (ViT), State Space Model (SSM), Long-Sequence Tasks, Autoregressive Tasks
-- **Link:** [Paper Link](https://github.com/yuweihao/MambaOut)
+- **Link:** [Link](https://github.com/yuweihao/MambaOut)
 
 ### Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation
 - **Tags:** Vision Transformer (ViT), Data Augmentation, Quantization, RowHammer Attack, Scale Factor Manipulation
@@ -15940,7 +15940,7 @@
 
 ### MambaVision: A Hybrid Mamba-Transformer Vision Backbone
 - **Tags:** Mamba, Vision Transformer (ViT), Backbone, Hybrid Architecture, Self-Attention, Hierarchical Design
-- **Link:** [Paper Link](https://github.com/NVlabs/MambaVision)
+- **Link:** [Link](https://github.com/NVlabs/MambaVision)
 
 ### DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers
 - **Tags:** Vision Transformer (ViT), Parameter-Efficient Fine-Tuning (PEFT), Metric Learning, Semantic-Guided Learning, Fine-Tuning Efficiency
@@ -15980,7 +15980,7 @@
 
 ### Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking
 - **Tags:** Vision Transformer (ViT), Visual Tracking, Occlusion-Robust Representations, Knowledge Distillation, Real-Time Tracking
-- **Link:** [Paper Link](https://github.com/qtyz-ogvm/ORTrack)
+- **Link:** [Link](https://github.com/qtyz-ogvm/ORTrack)
 
 ### DeepCompress-ViT: Rethinking Model Compression to Enhance Efficiency of Vision Transformers at the Edge
 - **Tags:** Vision Transformer (ViT), Model Pruning, Unified Compression Training (UCT), Edge Computing, Matrix Multiplication Optimization
@@ -16041,7 +16041,7 @@
 
 ### Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment
 - **Tags:** Vision Transformer (ViT), Image Quality Assessment, Tokenization, Multiscale Information, Aspect Ratio Preservation
-- **Link:** [Paper Link](https://github.com/FBehrad/Charm)
+- **Link:** [Link](https://github.com/FBehrad/Charm)
 
 ### BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers
 - **Tags:** Diffusion Models, Vision Transformer (ViT), Feature Reuse, Instance-Specific Acceleration, Spatio-Temporal Features
@@ -16060,7 +16060,7 @@
 
 ### LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions
 - **Tags:** Vision Transformer (ViT), Self-Supervised Learning, Gradient Flow Balancing, Attribution Faithfulness, Post-hoc Explanation Methods
-- **Link:** [Paper Link](https://nightmachinery.github.io/LibraGrad/)
+- **Link:** [Link](https://nightmachinery.github.io/LibraGrad/)
 
 ### L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers
 - **Tags:** Neural Architecture Search (NAS), Vision Transformer (ViT), Zero-Shot Learning, Training-free NAS, Proxy Combination
@@ -16131,7 +16131,7 @@
 
 ### DViN: Dynamic Visual Routing Network for Weakly Supervised Referring Expression Comprehension
 - **Tags:** Vision-Language Models (VLMs), Weakly Supervised Learning, Sparse Routing Mechanism, Routing-based Feature Alignment, Weakly Supervised REC
-- **Link:** [Paper Link](https://anonymous.4open.science/r/DViN-7736)
+- **Link:** [Link](https://anonymous.4open.science/r/DViN-7736)
 
 ### Realistic Test-Time Adaptation of Vision-Language Models
 - **Tags:** Vision-Language Models (VLMs), Test-Time Adaptation (TTA), Zero-Shot Learning, Regularization Techniques, Online Adaptation, Statistical Anchoring
@@ -16243,7 +16243,7 @@
 
 ### PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Heterogeneous Graph, Cross-Modal Alignment, Egocentric Video Analysis
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PHGC-7A1B)
+- **Link:** [Link](https://anonymous.4open.science/r/PHGC-7A1B)
 
 ### FineLIP: Extending CLIP’s Reach via Fine-Grained Alignment with Longer Text Inputs
 - **Tags:** CLIP, Vision-Language Models (VLMs), Zero-Shot Learning, Fine-Grained Alignment, Dynamic Token Aggregation, Longer Text Inputs
@@ -16301,7 +16301,7 @@
 
 ### Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior
 - **Tags:** Vision-Language Models (VLMs), Self-Supervised Learning, Uncertainty Estimation, Brain Signal Processing, Zero-Shot Retrieval
-- **Link:** [Paper Link](https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior)
+- **Link:** [Link](https://github.com/HaitaoWuTJU/Uncertainty-aware-Blur-Prior)
 
 ### DART: Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation
 - **Tags:** Medical Image Analysis, Vision-Language Models (VLMs), Contrastive Learning, Self-correction Module, Disease Classification
@@ -16395,11 +16395,11 @@
 
 ### Do Visual Imaginations Improve Vision-and-Language Navigation Agents?
 - **Tags:** Vision-Language Models (VLMs), Diffusion Models, Text-to-Image Synthesis, Auxiliary Loss, Landmark Cues
-- **Link:** [Paper Link](https://www.akhilperincherry.com/VLN-Imagine-website/)
+- **Link:** [Link](https://www.akhilperincherry.com/VLN-Imagine-website/)
 
 ### VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification
 - **Tags:** Vision-Language Models (VLMs), Visual Hallucination Mitigation, Token Sparsification, Attention Recalibration, Contrastive Decoding
-- **Link:** [Paper Link](https://anonymous.4open.science/r/VASparse-128C)
+- **Link:** [Link](https://anonymous.4open.science/r/VASparse-128C)
 
 ### CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models
 - **Tags:** Vision-Language Models (VLMs), Embodied AI, Visual Chain-of-Thought Reasoning, Autoregressive Frame Prediction, Sensorimotor Control
@@ -16490,7 +16490,7 @@
 
 ### LLAVIDAL: A Large LAnguage VIsion Model for Daily Activities of Living
 - **Tags:** Vision-Language Models (VLMs), Multimodal Learning, Human-Object Interaction (HOI), Curriculum Learning, 3D Skeletons
-- **Link:** [Paper Link](https://llavidal.github.io/llavidal/)
+- **Link:** [Link](https://llavidal.github.io/llavidal/)
 
 ### Recreating 1940s Tom and Jerry with Test-Time Training
 - **Tags:** Video Generation, Vision-Language Models, Test-Time Training, Long-Form Video Generation, Hybrid Attention Mechanism
@@ -16527,14 +16527,14 @@
 
 ### Semantic and Sequential Alignment for Referring Video Object Segmentation
 - **Tags:** Referring Image Segmentation, Vision-Language Models (VLMs), Semantic Segmentation, Trajectory-to-Instance Enhancement, Semantic Gap Bridging, Low Computational Cost
-- **Link:** [Paper Link](https://github.com/anonymous61888/SSA)
+- **Link:** [Link](https://github.com/anonymous61888/SSA)
 
 ### Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt learning
 - **Tags:** Vision-Language Models (VLMs), Self-Supervised Learning, Diffusion Models, Pseudo-labeling, Semantic-Visual Alignment, High-Fidelity Synthetic Samples, Robust Image-Image-Pair Classification, Semantic-Visual Alignment Enhancement
 
 ### Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves
 - **Tags:** Vision-Language Models (VLMs), Knowledge Distillation, Layer-wise Skipping, Class-wise Skipping, Feature-gradient Propagation
-- **Link:** [Paper Link](https://github.com/anonymity-007/SkipT)
+- **Link:** [Link](https://github.com/anonymity-007/SkipT)
 
 ### ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models
 - **Tags:** Large Language Models (LLMs), Vision-Language Models (VLMs), Adaptive Token Pruning, Spatial Augmented Pruning, Instance-Specific Pruning
@@ -16604,7 +16604,7 @@
 
 ### Conical Visual Concentration for Efficient Large Vision-Language Models
 - **Tags:** Vision-Language Models (VLMs), Data Augmentation, Token Reduction, Efficiency Optimization, Multi-modal Performance
-- **Link:** [Paper Link](https://github.com/Cooperx521/PyramidDrop)
+- **Link:** [Link](https://github.com/Cooperx521/PyramidDrop)
 
 ### Building a Mind Palace: Structuring Environment-Grounded Semantic Graphs or Effective Long Video Analysis with LLMs
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Semantic Graph Construction, Spatio-Temporal Reasoning, Environment Layout Mapping
@@ -16671,7 +16671,7 @@
 
 ### STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Weakly Supervised Learning, Curriculum Learning, Spatio-Temporal Grounding
-- **Link:** [Paper Link](https://aaryangrg.github.io/research/stpro)
+- **Link:** [Link](https://aaryangrg.github.io/research/stpro)
 
 ### Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection
 - **Tags:** Vision-Language Models (VLMs), Object Hallucinations, HalluSpace Projection, Null Space Projection, Model Weight Editing
@@ -16738,7 +16738,7 @@
 
 ### ProAPO: Progressively Automatic Prompt Optimization for Visual Classification
 - **Tags:** Vision-Language Models (VLMs), Large Language Models (LLMs), Prompt Optimization, Evolution-Based Algorithm, One-Shot Classification
-- **Link:** [Paper Link](https://anonymous.4open.science/r/ProAPO)
+- **Link:** [Link](https://anonymous.4open.science/r/ProAPO)
 
 ### VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Chain-of-Thought (CoT), Core Frame Selection, Hybrid LVLMs Collaboration
@@ -16775,7 +16775,7 @@
 
 ### PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models
 - **Tags:** Vision-Language Models (VLMs), Video Understanding, Data Augmentation, Token Compression, Temporal Redundancy, Unified Processing
-- **Link:** [Paper Link](https://github.com/OpenGVLab/PVC)
+- **Link:** [Link](https://github.com/OpenGVLab/PVC)
 
 ### LOGICZSL: Exploring Logic-induced Representation for Compositional Zero-shot Learning
 - **Tags:** Zero-Shot Learning, Vision-Language Models (VLMs), Logic Rules, Semantic Relationships, Compositional Learning
@@ -16914,7 +16914,7 @@
 
 ### 5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks
 - **Tags:** Vision-Language Models (VLMs), Object Detection, Semantic Segmentation, Adapter-based Tuning, Scaled Layernorm, Vision-Friendly Filters
-- **Link:** [Paper Link](https://github.com/Leiyi-Hu/mona)
+- **Link:** [Link](https://github.com/Leiyi-Hu/mona)
 
 ### Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs
 - **Tags:** Large Language Models (LLMs), Vision-Language Models (VLMs), Few-Shot Learning, Meta-Learning, LoRA Recycle, Tuning-Free Adaptation, Meta-LoRA
@@ -16930,7 +16930,7 @@
 
 ### UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning
 - **Tags:** Few-Shot Learning, Transductive Learning, Learning to Optimize, Hyper-parameter Optimization, Vision-Language Models
-- **Link:** [Paper Link](https://anonymous.4open.science/r/UNEM)
+- **Link:** [Link](https://anonymous.4open.science/r/UNEM)
 
 ### Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces
 - **Tags:** 3DGS (Gaussian Splatting), Vision-Language Models (VLMs), Functional 3D Scene Graphs, Indoor Scene Understanding, Robotic Manipulation
@@ -17000,14 +17000,14 @@
 
 ### LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences
 - **Tags:** 3DGS (Gaussian Splatting), Vision-Language Models (VLMs), Adaptive Visual Preferences, Scene Magnifier Module, Cross-Room Understanding Benchmark
-- **Link:** [Paper Link](https://arxiv.org/abs/2412.01292)
+- **Link:** [Link](https://arxiv.org/abs/2412.01292)
 
 ### FreeScene: Mixed Graph Diffusion for 3D Scene Synthesis from Free Prompts
 - **Tags:** 3D Generation, Vision-Language Models (VLMs), Graph-aware Denoising, Mixed Graph Diffusion Transformer, User-friendly Scene Synthesis
 
 ### Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens
 - **Tags:** Vision-Language Models (VLMs), Object Detection, Attention Mechanisms, Attention Patterns, Inference-Time Optimization, Visual Information Processing
-- **Link:** [Paper Link](https://anonymous.4open.science/r/middlelayersindicating_hallucinations-C45A)
+- **Link:** [Link](https://anonymous.4open.science/r/middlelayersindicating_hallucinations-C45A)
 
 ### Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis
 - **Tags:** Diffusion Models, Vision-Language Models (VLMs), Noise Diffusion, Semantic Alignment, Latent Optimization
@@ -17065,7 +17065,7 @@
 
 ### PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
 - **Tags:** Vision-Language Models (VLMs), Embodied AI, Robotic Physical Reachability, Space-Physical Reachability Map (S-P Map), Multi-Robot Dataset
-- **Link:** [Paper Link](https://github.com/unira-zwj/PhysVLM)
+- **Link:** [Link](https://github.com/unira-zwj/PhysVLM)
 
 ### GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill
 - **Tags:** Large Language Models (LLMs), Vision-Language Models (VLMs), Pose2CLIP, Iterative Reward Design, Open-Vocabulary Learning
@@ -17198,7 +17198,7 @@
 
 ### Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking
 - **Tags:** Vision Transformer (ViT), Visual Tracking, Occlusion-Robust Representations, Knowledge Distillation, Real-Time Tracking
-- **Link:** [Paper Link](https://github.com/qtyz-ogvm/ORTrack)
+- **Link:** [Link](https://github.com/qtyz-ogvm/ORTrack)
 
 ### Exploring Historical Information for RGBE Visual Tracking with Mamba
 - **Tags:** Visual Tracking, Mamba, RGBE Tracking, Long-Range Modeling, Autoregressive Queries
@@ -17287,7 +17287,7 @@
 
 ### VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation
 - **Tags:** Embodied AI, Zero-Shot Learning, 3D Reconstruction, Diffusion Models, 3D Hand Trajectories, Coarse-to-Fine Learning, Context-Aware Interaction Planning
-- **Link:** [Paper Link](https://hanzhic.github.io/vidbot-project/)
+- **Link:** [Link](https://hanzhic.github.io/vidbot-project/)
 
 ### ZeroVO: Visual Odometry with Minimal Assumptions
 - **Tags:** Autonomous Driving, Visual Odometry, Zero-Shot Learning, Language-Based Prior, Calibration-Free Network, Semi-Supervised Adaptation
@@ -17375,7 +17375,7 @@
 
 ### Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval
 - **Tags:** Zero-Shot Learning, Multimodal Large Language Models (MLLMs), Reflective Chain-of-Thought, Training-Free Methods, Vision-Language Applications
-- **Link:** [Paper Link](https://github.com/Pter61/osrcir2024)
+- **Link:** [Link](https://github.com/Pter61/osrcir2024)
 
 ### HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis
 - **Tags:** Image Generation, Parameter-Efficient Learning, Zero-Shot Learning, Adaptive Networks, Portrait Synthesis
@@ -17430,7 +17430,7 @@
 
 ### Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval
 - **Tags:** Zero-Shot Learning, Image Retrieval, Latent Space Prediction, World Model, Pseudo-Word Token Mapping
-- **Link:** [Paper Link](https://anonymous.4open.science/r/PrediCIR/)
+- **Link:** [Link](https://anonymous.4open.science/r/PrediCIR/)
 
 ### RSVOS-SAM: High-Quality Interactive Segmentation for Remote Sensing Video Object
 - **Tags:** Remote Sensing Image Analysis, Video Object Segmentation, LoRA-based Fine-tuning, Global Context Integration, Zero-Shot Learning
@@ -17503,7 +17503,7 @@
 
 ### $Neuron$: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition
 - **Tags:** Zero-Shot Learning, Action Detection, Spatial-Temporal Evolving Prototypes, Cross-Modal Alignment, Dynamic Context-Aware Learning
-- **Link:** [Paper Link](https://anonymous.4open.science/r/Neuron)
+- **Link:** [Link](https://anonymous.4open.science/r/Neuron)
 
 ### Blind-Spot Real-world Image Denoising via Implicit Neural Pixel Resampling
 - **Tags:** Denoising, Implicit Neural Representations, Zero-Shot Learning, Pixel Resampling, Statistical Risk Analysis
@@ -17519,7 +17519,7 @@
 
 ### Towards Generalizable Scene Change Detection
 - **Tags:** Scene Change Detection, Zero-Shot Learning, Segment Anything Model (SAM), ChangeVPR Dataset, Geometric-Semantic Mask Matching
-- **Link:** [Paper Link](https://github.com/1124jaewookim/towards-generalizable-scene-change-detection/tree/main)
+- **Link:** [Link](https://github.com/1124jaewookim/towards-generalizable-scene-change-detection/tree/main)
 
 ### Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy
 - **Tags:** Zero-Shot Learning, Image Retrieval, Proxy Image Generation, Semantic Perturbation, Balancing Metric
