@@ -111,14 +111,14 @@ const calculateMatchScore = (paper, searchTerms, fullSearchPhrase) => {
         const paperAbstract = paper?.Abstract?.toLowerCase();
         const paperSummary = paper?.Abstract_Summary?.toLowerCase();
         const paperAuthors = paper?.Authors?.toLowerCase();
-        const paperTags = paper.Tags.map(tag => tag.toLowerCase());
+        const paperTags = paper.Tags.map(tag => tag?.toLowerCase());
         
         // Full phrase match
         if (paperTitle.includes(fullSearchPhrase) || 
             paperAbstract.includes(fullSearchPhrase) || 
             paperSummary.includes(fullSearchPhrase) || 
             paperAuthors.includes(fullSearchPhrase) || 
-            paperTags.some(tag => tag.includes(fullSearchPhrase))) {
+            paperTags?.some(tag => tag.includes(fullSearchPhrase))) {
           return true;
         }
         
@@ -129,7 +129,7 @@ const calculateMatchScore = (paper, searchTerms, fullSearchPhrase) => {
           paperAbstract.includes(term) || paperSummary.includes(term)
         );
         const tagMatch = searchTerms.some(term => 
-          paperTags.some(tag => tag.includes(term))
+          paperTags?.some(tag => tag?.includes(term))
         );
         
         return titleMatch || authorMatch || abstractMatch || tagMatch;
