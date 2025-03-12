@@ -111,7 +111,7 @@ const calculateMatchScore = (paper, searchTerms, fullSearchPhrase) => {
         const paperAbstract = paper?.Abstract?.toLowerCase();
         const paperSummary = paper?.Abstract_Summary?.toLowerCase();
         const paperAuthors = paper?.Authors?.toLowerCase();
-        const paperTags = paper.Tags.map(tag => tag?.toLowerCase());
+        const paperTags = paper?.Tags?.map(tag => tag?.toLowerCase());
         
         // Full phrase match
         if (paperTitle.includes(fullSearchPhrase) || 
