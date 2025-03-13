@@ -315,6 +315,7 @@ const filterAndScorePapers = (papers, searchTerms, fullSearchPhrase) => {
         matchScore: tagMatch >= 90 ? 0.4 * tagMatch + 0.6 * max : max,
       };
     })
+    .filter((i) => i.matchScore > 0)
     .sort((a, b) => b.matchScore - a.matchScore);
 };
 
