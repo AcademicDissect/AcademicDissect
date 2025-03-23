@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/CVPR2025/static/css/main.5e3c420c.css",
-    "main.js": "/CVPR2025/static/js/main.9c9ea335.js",
-    "static/js/206.51c4d886.chunk.js": "/CVPR2025/static/js/206.51c4d886.chunk.js",
-    "index.html": "/CVPR2025/index.html"
+    "main.css": "/AcademicDissect/static/css/main.5e3c420c.css",
+    "main.js": "/AcademicDissect/static/js/main.02d4f3b7.js",
+    "static/js/206.51c4d886.chunk.js": "/AcademicDissect/static/js/206.51c4d886.chunk.js",
+    "index.html": "/AcademicDissect/index.html"
   },
   "entrypoints": [
     "static/css/main.5e3c420c.css",
-    "static/js/main.9c9ea335.js"
+    "static/js/main.02d4f3b7.js"
   ]
 }
