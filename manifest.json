@@ -4,12 +4,12 @@
   "description": "Search and explore the latest computer vision papers from CVPR conferences",
   "icons": [
     {
-      "src": "/CVPR2025/icons/icon-192x192.png",
+      "src": "/AcademicDissect/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/CVPR2025/icons/icon-512x512.png",
+      "src": "/AcademicDissect/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -19,7 +19,7 @@
   "background_color": "#f9fafb",
   "orientation": "portrait-primary",
   "categories": ["education", "research", "science", "utilities"],
-  "start_url": "/CVPR2025/",
-  "scope": "/CVPR2025/",
+  "start_url": "/AcademicDissect/",
+  "scope": "/AcademicDissect/",
   "lang": "en-US"
 }

@@ -5,11 +5,11 @@ self.addEventListener('install', (event) => {
     caches.open(CACHE_NAME).then((cache) => {
       console.log('Opened cache');
       return cache.addAll([
-        '/CVPR2025/',
-        '/CVPR2025/index.html',
-        '/CVPR2025/favicon.ico',
-        '/CVPR2025/cvpr.json',
-        '/CVPR2025/searchWorker.js'
+        '/AcademicDissect/',
+        '/AcademicDissect/index.html',
+        '/AcademicDissect/favicon.ico',
+        '/AcademicDissect/cvpr.json',
+        '/AcademicDissect/searchWorker.js'
       ]);
     })
   );
