@@ -1,4 +1,11 @@
 # **CVPR 2025 Paper Collections (CVPR 2025 论文整理)**
+<p align="center">
+  <img src="./icons/frame.png" alt="QR Code" width="200"/>
+</p>
+
+<p align="center">
+  <b>Welcome to our Literature Browsing System</b>
+</p>
 
 ## **Table of Contents**
 - [3D Generation](#3d-generation)
