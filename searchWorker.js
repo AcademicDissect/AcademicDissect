@@ -295,7 +295,7 @@ const filterAndScorePapers = (papers, searchTerms, fullSearchPhrase) => {
       const paperTitle = paper.Title?.toLowerCase();
       const paperAbstract = paper.Abstract?.toLowerCase();
       const paperSummary = paper.Abstract_Summary?.toLowerCase();
-      const paperAuthors = paper.Authors?.toLowerCase();
+      const paperAuthors = paper?.Authors?.toLowerCase?.();
       const paperTags = paper?.Tags?.map((tag) => tag?.toLowerCase()) ?? [];
       const titleMatch = smartFuzzyMatch(fullSearchPhrase, paperTitle);
       const abstractMatch = smartFuzzyMatch(fullSearchPhrase, paperAbstract);
@@ -315,7 +315,8 @@ const filterAndScorePapers = (papers, searchTerms, fullSearchPhrase) => {
         matchScore: tagMatch >= 90 ? 0.4 * tagMatch + 0.6 * max : max,
       };
     })
-    .filter((i) => i.matchScore > 0)
+    // 设置检索门限
+    .filter((i) => i.matchScore > 25)
     .sort((a, b) => b.matchScore - a.matchScore);
 };
 

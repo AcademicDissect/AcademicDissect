@@ -1,0 +1,11 @@
+[
+  "/data/cvpr/cvpr_2023.json",
+  "/data/cvpr/cvpr_2024.json",
+  "/data/cvpr/cvpr_2025.json",
+  "/data/eccv/eccv_2022.json",
+  "/data/eccv/eccv_2024.json",
+  "/data/iccv/iccv_2021.json",
+  "/data/iccv/iccv_2023.json",
+  "/data/iclr/iclr_2024.json",
+  "/data/iclr/iclr_2025.json"
+]
