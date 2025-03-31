@@ -92,7 +92,7 @@
 
 ## **3D Generation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Neural Hierarchical Decomposition for Single Image Plant Modeling
@@ -116,7 +116,7 @@
 
 ## **3D Human Mesh Estimation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Motions as Queries: One-Stage Multi-Person Holistic Human Motion Capture
@@ -140,7 +140,7 @@
 
 ## **3D Human Pose Estimation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training
@@ -164,7 +164,7 @@
 
 ## **3D Object Detection**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection
@@ -188,7 +188,7 @@
 
 ## **3D Object Tracking**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Prior-free 3D Object Tracking
@@ -207,7 +207,7 @@
 
 ## **3D Point Cloud**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds
@@ -231,7 +231,7 @@
 
 ## **3D Reconstruction**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Neural Hierarchical Decomposition for Single Image Plant Modeling
@@ -255,7 +255,7 @@
 
 ## **3D Registration**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### CARL: A Framework for  Equivariant Image Registration
@@ -280,7 +280,7 @@
 
 ## **3D Semantic Scene Completion**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### 3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation
@@ -304,7 +304,7 @@
 
 ## **3D Semantic Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### SDGOCC: Semantic and Depth-Guided Bird’s-Eye View Transformation for 3D Multimodal Occupancy Prediction
@@ -329,7 +329,7 @@
 
 ## **3DGS**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting
@@ -354,7 +354,7 @@
 
 ## **6D Object Pose Estimation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### One2Any: One-Reference 6D Pose Estimation for Any Object
@@ -378,7 +378,7 @@
 
 ## **Action Detection**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Heterogeneous Skeleton-Based Action Representation Learning
@@ -402,7 +402,7 @@
 
 ## **Anomaly Detection**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models
@@ -426,7 +426,7 @@
 
 ## **Autonomous Driving**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification
@@ -450,7 +450,7 @@
 
 ## **Avatars**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### GeoAvatar: Geometrically-Consistent Multi-Person Avatar Reconstruction from Sparse Multi-View Videos
@@ -475,7 +475,7 @@
 
 ## **Backbone**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining
@@ -500,7 +500,7 @@
 
 ## **CLIP**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Logits DeConfusion with CLIP for Few-Shot Learning
@@ -524,7 +524,7 @@
 
 ## **DETR**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### BOOTPLACE: Bootstrapped Object Placement with Detection Transformers
@@ -548,7 +548,7 @@
 
 ## **Data Augmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### BOOTPLACE: Bootstrapped Object Placement with Detection Transformers
@@ -572,7 +572,7 @@
 
 ## **Datasets and Benchmarks**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### uCO3D: UnCommon Objects in 3D
@@ -597,7 +597,7 @@
 
 ## **Deblur**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting
@@ -621,7 +621,7 @@
 
 ## **Denoising**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection
@@ -645,7 +645,7 @@
 
 ## **Depth Estimation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors
@@ -670,7 +670,7 @@
 
 ## **Diffusion Models**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### ROICtrl: Boosting Instance Control for Visual Generation
@@ -694,7 +694,7 @@
 
 ## **Embodied AI**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation
@@ -718,7 +718,7 @@
 
 ## **Feature Matching**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba
@@ -743,7 +743,7 @@
 
 ## **Generative Adversarial Networks**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Auto-Enocded Supervision for Perceptual Image Super-Resolution
@@ -768,7 +768,7 @@
 
 ## **Graph Neural Networks**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images
@@ -792,7 +792,7 @@
 
 ## **Human Action Prediction**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### LAL: Enhancing 3D Human Motion Prediction with Latency-aware Auxiliary Learning
@@ -816,7 +816,7 @@
 
 ## **Image Captioning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Variance-Based Membership Inference Attacks Against Large-Scale Image Captioning Models
@@ -840,7 +840,7 @@
 
 ## **Image Editing**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### BOOTPLACE: Bootstrapped Object Placement with Detection Transformers
@@ -865,7 +865,7 @@
 
 ## **Image Generation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### ROICtrl: Boosting Instance Control for Visual Generation
@@ -889,7 +889,7 @@
 
 ## **Image Inpainting**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection
@@ -913,7 +913,7 @@
 
 ## **Image Matting**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Polarized Color Screen Matting
@@ -923,7 +923,7 @@
 
 ## **Image Quality Assessment**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Image Quality Assessment: Investigating Causal Perceptual Effects with Abductive Counterfactual Inference
@@ -948,7 +948,7 @@
 
 ## **Implicit Neural Representations**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### ProbeSDF: Light Field Probes For Neural Surface Reconstruction
@@ -972,7 +972,7 @@
 
 ## **Instance Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Foveated Instance Segmentation
@@ -996,7 +996,7 @@
 
 ## **Knowledge Distillation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Distilling Long-tailed Datasets
@@ -1021,7 +1021,7 @@
 
 ## **Lane Detection**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### GLane3D : Detecting Lanes with Graph of 3D Keypoints
@@ -1031,7 +1031,7 @@
 
 ## **Large Language Models**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
@@ -1056,7 +1056,7 @@
 
 ## **Long-Tail Learning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Distilling Long-tailed Datasets
@@ -1080,7 +1080,7 @@
 
 ## **Low-Level Vision**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective
@@ -1104,7 +1104,7 @@
 
 ## **Low-Light Image Enhancement**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Improving Visual and Downstream Performance of Low-Light Enhancer with Vision Foundation Models Collaboration
@@ -1129,7 +1129,7 @@
 
 ## **Mamba**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### M3amba: Memory Mamba is All You Need for Whole Slide Image Classification
@@ -1153,7 +1153,7 @@
 
 ## **Medical Image Analysis**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering
@@ -1177,7 +1177,7 @@
 
 ## **Medical Image Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models
@@ -1202,7 +1202,7 @@
 
 ## **Model Pruning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Graph-Embedded Structure-Aware Perceptual Hashing for Neural Network Protection and Piracy Detection
@@ -1226,7 +1226,7 @@
 
 ## **Multi-Person Interaction Analysis**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### GeoAvatar: Geometrically-Consistent Multi-Person Avatar Reconstruction from Sparse Multi-View Videos
@@ -1236,7 +1236,7 @@
 
 ## **Multimodal Large Language Models**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
@@ -1260,7 +1260,7 @@
 
 ## **Multimodal Learning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval
@@ -1284,7 +1284,7 @@
 
 ## **NeRF**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Ref-GS: Directional Factorization for 2D Gaussian Splatting
@@ -1308,7 +1308,7 @@
 
 ## **Neural Architecture Search**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds
@@ -1332,7 +1332,7 @@
 
 ## **Novel View Synthesis**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting
@@ -1356,7 +1356,7 @@
 
 ## **Object Detection**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### EntitySAM: Segment Everything in Video
@@ -1380,7 +1380,7 @@
 
 ## **Object Removal & Replacement**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### RORem: Training a Robust Object Remover with Human-in-the-Loop
@@ -1402,7 +1402,7 @@
 
 ## **Optical Character Recognition**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition
@@ -1426,7 +1426,7 @@
 
 ## **Panoptic Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High Intensity Surgical Environments
@@ -1445,7 +1445,7 @@
 
 ## **ReID**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Towards All-in-One Medical Image Re-Identification
@@ -1469,7 +1469,7 @@
 
 ## **Referring Image Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation
@@ -1489,7 +1489,7 @@
 
 ## **Remote Sensing Image Analysis**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening
@@ -1513,7 +1513,7 @@
 
 ## **Scene Graph Generation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High Intensity Surgical Environments
@@ -1537,7 +1537,7 @@
 
 ## **Self-Supervised Learning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors
@@ -1562,7 +1562,7 @@
 
 ## **Semantic Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
@@ -1586,7 +1586,7 @@
 
 ## **Sign Language Recognition**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### VSNet: Focusing on the Linguistic Characteristics of Sign Language
@@ -1605,7 +1605,7 @@
 
 ## **Stereo Matching**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification
@@ -1629,7 +1629,7 @@
 
 ## **Style Transfer**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer
@@ -1653,7 +1653,7 @@
 
 ## **Super-Resolution**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Event-based Video Super-Resolution via State Space Models
@@ -1678,7 +1678,7 @@
 
 ## **Text Detection**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing
@@ -1694,7 +1694,7 @@
 
 ## **Text-to-Image Generation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### PreciseCam: Precise Camera Control for Text-to-Image Generation
@@ -1718,7 +1718,7 @@
 
 ## **Video Generation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations
@@ -1742,7 +1742,7 @@
 
 ## **Video Instance Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### RipVIS: Rip Currents Video Instance Segmentation Benchmark for Beach Monitoring and Safety
@@ -1758,7 +1758,7 @@
 
 ## **Video Object Segmentation**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### EntitySAM: Segment Everything in Video
@@ -1782,7 +1782,7 @@
 
 ## **Video Prediction**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction
@@ -1795,7 +1795,7 @@
 
 ## **Video Understanding**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Learning Audio-guided Video Representation with Gated Attention for Video-Text Retrieval
@@ -1819,7 +1819,7 @@
 
 ## **Vision Transformer**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement
@@ -1843,7 +1843,7 @@
 
 ## **Vision-Language Models**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering
@@ -1867,7 +1867,7 @@
 
 ## **Visual Commonsense Reasoning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks
@@ -1877,7 +1877,7 @@
 
 ## **Visual Question Answering**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research
@@ -1901,7 +1901,7 @@
 
 ## **Visual Tracking**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### SocialMOIF：Multi-Order Intention Fusion for Pedestrain Trajectory Prediction
@@ -1925,7 +1925,7 @@
 
 ## **Zero-Shot Learning**
 <details>
-  <summary>Click to expand (Top 5 Papers)</summary>
+  <summary>Click to expand (5 Listed Papers )</summary>
 
 
 ### EntitySAM: Segment Everything in Video
